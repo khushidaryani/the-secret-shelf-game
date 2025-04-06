@@ -72,3 +72,21 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 [Aa]ssets/[Ss]treamingAssets/aa.meta
 [Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore IDE configuration files
+.vscode/
+
+# Ignore the node_modules folder
+node_modules/
+
+# Ignore Node.js dependency files
+package-lock.json
+
+# Ignore log files
+*.log
+
+# Ignore local database files
+*.sqlite
+
+# Ignore credential files
+.env
