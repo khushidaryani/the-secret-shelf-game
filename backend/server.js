@@ -1,3 +1,4 @@
+require('dotenv').config();
 const mongoose = require('mongoose');
 const express = require('express');
 const { Book, Player } = require('./models');
@@ -5,7 +6,7 @@ const app = express();
 const port = 3000;
 
 // URL to connect to MongoDB Atlas
-const uri = "mongodb+srv://khushidaryani:<password>@the-secret-shelf-game.qhztmjw.mongodb.net/game?appName=the-secret-shelf-game";
+const uri = process.env.MONGODB_URI;
 
 // Option settings for MongoDB (for a stable API)
 const clientOptions = { serverApi: { version: '1', strict: true, deprecationErrors: true } };
