@@ -6,7 +6,7 @@ const { Book } = require('../models');
 //app.use(express.json());
 
 // Get all books
-router.get('/books', async (req, res) => {
+router.get('/', async (req, res) => {
   try {
     const books = await Book.find();
     res.json(books);
@@ -16,7 +16,7 @@ router.get('/books', async (req, res) => {
 });
 
 // Add a new book
-router.post('/books', async (req, res) => {
+router.post('/', async (req, res) => {
   const { ISBN, title, author, genre, hints } = req.body;
 
   if (!Array.isArray(hints) || hints.length !== 4) {

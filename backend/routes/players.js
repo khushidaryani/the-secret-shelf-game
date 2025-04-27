@@ -3,7 +3,7 @@ const router = express.Router();
 const { Player } = require('../models');
 
 // Get player by name
-router.get('/player/:name', async (req, res) => {
+router.get('/:name', async (req, res) => {
   try {
     const player = await Player.findOne({ name: req.params.name });
     if (!player) {
@@ -16,7 +16,7 @@ router.get('/player/:name', async (req, res) => {
 });
 
 // Update player points
-router.post('/player/:name/points', async (req, res) => {
+router.post(':name/points', async (req, res) => {
   try {
     const player = await Player.findOne({ name: req.params.name });
     if (!player) return res.status(404).send("Player not found");
@@ -30,7 +30,7 @@ router.post('/player/:name/points', async (req, res) => {
 });
 
 // Update player progress
-router.post('/player/:name/progress', async (req, res) => {
+router.post('/:name/progress', async (req, res) => {
   try {
     const player = await Player.findOne({ name: req.params.name });
     if (!player) {
@@ -49,7 +49,7 @@ router.post('/player/:name/progress', async (req, res) => {
 });
 
 // Get player progress
-router.get('/player/:name/progress', async (req, res) => {
+router.get('/:name/progress', async (req, res) => {
   try {
     const player = await Player.findOne({ name: req.params.name });
     if (!player) {
