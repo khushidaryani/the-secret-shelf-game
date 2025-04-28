@@ -5,6 +5,6 @@ const playersRoutes = require('./players');
 const router = express.Router();
 
 router.use('/books', booksRoutes);
-router.use('/player', playersRoutes);
+router.use('/players', playersRoutes);
 
 module.exports = router;
