@@ -1,0 +1,1654 @@
+fileFormatVersion: 2
+guid: 4ed6f58cffe964c428517a444e99b6f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5092268376744647299
+    second: Conference_woman_16x16_0
+  - first:
+      213: -8735681329762012377
+    second: Conference_woman_16x16_1
+  - first:
+      213: -8370153048698290490
+    second: Conference_woman_16x16_2
+  - first:
+      213: -4558345684361327605
+    second: Conference_woman_16x16_3
+  - first:
+      213: 7610989090238077221
+    second: Conference_woman_16x16_4
+  - first:
+      213: -8006224544118938936
+    second: Conference_woman_16x16_5
+  - first:
+      213: 7229268284367362791
+    second: Conference_woman_16x16_6
+  - first:
+      213: 9044397067293239038
+    second: Conference_woman_16x16_7
+  - first:
+      213: 6295256829076919280
+    second: Conference_woman_16x16_8
+  - first:
+      213: 1288781262739246276
+    second: Conference_woman_16x16_9
+  - first:
+      213: -3559981576349679410
+    second: Conference_woman_16x16_10
+  - first:
+      213: -3336256224399414093
+    second: Conference_woman_16x16_11
+  - first:
+      213: -9003609849240549015
+    second: Conference_woman_16x16_12
+  - first:
+      213: -5605725124118238570
+    second: Conference_woman_16x16_13
+  - first:
+      213: -6282257190708523555
+    second: Conference_woman_16x16_14
+  - first:
+      213: 3904629341996416054
+    second: Conference_woman_16x16_15
+  - first:
+      213: 3328277683737357110
+    second: Conference_woman_16x16_16
+  - first:
+      213: 7759936443614687740
+    second: Conference_woman_16x16_17
+  - first:
+      213: 5149191008474566742
+    second: Conference_woman_16x16_18
+  - first:
+      213: -5954258064444008673
+    second: Conference_woman_16x16_19
+  - first:
+      213: -4997445412058291473
+    second: Conference_woman_16x16_20
+  - first:
+      213: -7941904271920690203
+    second: Conference_woman_16x16_21
+  - first:
+      213: 5824069534209892154
+    second: Conference_woman_16x16_22
+  - first:
+      213: 1902278741005476384
+    second: Conference_woman_16x16_23
+  - first:
+      213: -4316769135724195276
+    second: Conference_woman_16x16_24
+  - first:
+      213: 979791615453167186
+    second: Conference_woman_16x16_25
+  - first:
+      213: -8411804609446028788
+    second: Conference_woman_16x16_26
+  - first:
+      213: 5067455843971158754
+    second: Conference_woman_16x16_27
+  - first:
+      213: 3143650562173251350
+    second: Conference_woman_16x16_28
+  - first:
+      213: -4856763899195306584
+    second: Conference_woman_16x16_29
+  - first:
+      213: 7587921087546837161
+    second: Conference_woman_16x16_30
+  - first:
+      213: -635506550254374389
+    second: Conference_woman_16x16_31
+  - first:
+      213: 8173404882316581871
+    second: Conference_woman_16x16_32
+  - first:
+      213: -448090933998381935
+    second: Conference_woman_16x16_33
+  - first:
+      213: 6466265764517688830
+    second: Conference_woman_16x16_34
+  - first:
+      213: -7966348838408378839
+    second: Conference_woman_16x16_35
+  - first:
+      213: 6890954481469274000
+    second: Conference_woman_16x16_36
+  - first:
+      213: -7554249645710873978
+    second: Conference_woman_16x16_37
+  - first:
+      213: 8728329107189812966
+    second: Conference_woman_16x16_38
+  - first:
+      213: -8527483627979098822
+    second: Conference_woman_16x16_39
+  - first:
+      213: -2603507696043259375
+    second: Conference_woman_16x16_40
+  - first:
+      213: -815305325133411192
+    second: Conference_woman_16x16_41
+  - first:
+      213: 1946583068506494837
+    second: Conference_woman_16x16_42
+  - first:
+      213: -4033271019146569741
+    second: Conference_woman_16x16_43
+  - first:
+      213: -6863273759686277329
+    second: Conference_woman_16x16_44
+  - first:
+      213: 4638815710818733986
+    second: Conference_woman_16x16_45
+  - first:
+      213: -5348076420658144292
+    second: Conference_woman_16x16_46
+  - first:
+      213: -360899842085985203
+    second: Conference_woman_16x16_47
+  - first:
+      213: -6460886956582761877
+    second: Conference_woman_16x16_48
+  - first:
+      213: -5112980332999544064
+    second: Conference_woman_16x16_49
+  - first:
+      213: -2135950650843123888
+    second: Conference_woman_16x16_50
+  - first:
+      213: 7853249632230006032
+    second: Conference_woman_16x16_51
+  - first:
+      213: 4539435158154892425
+    second: Conference_woman_16x16_52
+  - first:
+      213: 3415788419882622664
+    second: Conference_woman_16x16_53
+  - first:
+      213: -5828704817757995886
+    second: Conference_woman_16x16_54
+  - first:
+      213: -7572956232865901063
+    second: Conference_woman_16x16_55
+  - first:
+      213: -4581963118627243249
+    second: Conference_woman_16x16_56
+  - first:
+      213: -8425658569116635989
+    second: Conference_woman_16x16_57
+  - first:
+      213: 1522555451679250855
+    second: Conference_woman_16x16_58
+  - first:
+      213: 8270559439870411780
+    second: Conference_woman_16x16_59
+  - first:
+      213: -988091486540233019
+    second: Conference_woman_16x16_60
+  - first:
+      213: 6405073858101590026
+    second: Conference_woman_16x16_61
+  - first:
+      213: -5772671813379284317
+    second: Conference_woman_16x16_62
+  - first:
+      213: 7915229387943602643
+    second: Conference_woman_16x16_63
+  - first:
+      213: -8849306188769809345
+    second: Conference_woman_16x16_64
+  - first:
+      213: -3303116661823769101
+    second: Conference_woman_16x16_65
+  - first:
+      213: 4838612860882088616
+    second: Conference_woman_16x16_66
+  - first:
+      213: -7307196491465205249
+    second: Conference_woman_16x16_67
+  - first:
+      213: 2391982611162109936
+    second: Conference_woman_16x16_68
+  - first:
+      213: -5552459671784119779
+    second: Conference_woman_16x16_69
+  - first:
+      213: -4028960041181826714
+    second: Conference_woman_16x16_70
+  - first:
+      213: 1284004121453892293
+    second: Conference_woman_16x16_71
+  - first:
+      213: 1750215902114476681
+    second: Conference_woman_16x16_72
+  - first:
+      213: 6377858028536540362
+    second: Conference_woman_16x16_73
+  - first:
+      213: 5621795439573197848
+    second: Conference_woman_16x16_74
+  - first:
+      213: -1778850637551205500
+    second: Conference_woman_16x16_75
+  - first:
+      213: 3108795337600012535
+    second: Conference_woman_16x16_76
+  - first:
+      213: -6485916772343487881
+    second: Conference_woman_16x16_77
+  - first:
+      213: 3528482440567172281
+    second: Conference_woman_16x16_78
+  - first:
+      213: -4330738790856239174
+    second: Conference_woman_16x16_79
+  - first:
+      213: -4132253745655114780
+    second: Conference_woman_16x16_80
+  - first:
+      213: 3913230129162842264
+    second: Conference_woman_16x16_81
+  - first:
+      213: 6041678878109126901
+    second: Conference_woman_16x16_82
+  - first:
+      213: 1237807209188741005
+    second: Conference_woman_16x16_83
+  - first:
+      213: -315654186309340901
+    second: Conference_woman_16x16_84
+  - first:
+      213: -8601986292510401412
+    second: Conference_woman_16x16_85
+  - first:
+      213: -2690172621775850607
+    second: Conference_woman_16x16_86
+  - first:
+      213: -8612350497008111347
+    second: Conference_woman_16x16_87
+  - first:
+      213: 151720399801890468
+    second: Conference_woman_16x16_88
+  - first:
+      213: 8666758391153998790
+    second: Conference_woman_16x16_89
+  - first:
+      213: 576371799130102648
+    second: Conference_woman_16x16_90
+  - first:
+      213: -912439249580182677
+    second: Conference_woman_16x16_91
+  - first:
+      213: -54785806954606178
+    second: Conference_woman_16x16_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Conference_woman_16x16_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98716ee82f71c47ab879c0855cf948
+      internalID: -4316769135724195276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6938b111246a4f48b21f252750f3b42
+      internalID: 979791615453167186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e373cbc23b72b5c4897ad23f81f1818b
+      internalID: -8411804609446028788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 253
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf235e4b28ac5040b6b86101505926a
+      internalID: 5067455843971158754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221878df3c78fdd4abdd4684ae55b142
+      internalID: 5092268376744647299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cce349e588fd5458398c21428bca6d
+      internalID: -8735681329762012377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24bfdec85836ec45900c60ccf9301c1
+      internalID: -8370153048698290490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d8ffe020a13b340ba797307732196a
+      internalID: -4558345684361327605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28791d0d5e22f594e83d6302b9f1a065
+      internalID: 7610989090238077221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca4cd51291729b418afa0a48e35c4ee
+      internalID: -8006224544118938936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3cc756772c2e6478ec682cd9d7bd2d
+      internalID: 7229268284367362791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947cdca922a406946b02e8823e29bed3
+      internalID: 9044397067293239038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695898baca2c6d4e9392c32c5a42563
+      internalID: 6295256829076919280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67cb9eebd9bd94faac89a39e434055
+      internalID: 1288781262739246276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c202319e0306245903297d6a0b3c50
+      internalID: -3559981576349679410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e191b32cb15b4da274461cd99eff5
+      internalID: -3336256224399414093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83fcbfab5afcba4598365cba3403574
+      internalID: -9003609849240549015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282d07633ed9fe4ba00cc4ffc21ebe6
+      internalID: -5605725124118238570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8c6dc01383a4f48968ce15cdc79523
+      internalID: -6282257190708523555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592514aefe03dda458073233a1d37dae
+      internalID: 3904629341996416054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214edb90fd2e8c4890595eacf7b7143
+      internalID: 3328277683737357110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd56730daed04e498866075636b491f
+      internalID: 7759936443614687740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb046aa27e4ac748b4e12a19e09992b
+      internalID: 5149191008474566742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9fe91bf5c02ca4fb5a68e429054205
+      internalID: -5954258064444008673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b458a49be7d474fb10fd2988501a1c
+      internalID: -4997445412058291473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52768d56bcab2064d976d82e6a1e853a
+      internalID: -7941904271920690203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_22
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81f8191c00f904bba3482a6db7acf1
+      internalID: 5824069534209892154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_23
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 191
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23437c180df964ea66cca9da60a13f
+      internalID: 1902278741005476384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8e0a3040561e4795e886e7b058619
+      internalID: 3143650562173251350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e9268a982cfe46a4f6d30926e4ccb
+      internalID: -4856763899195306584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16900b4bb12d3544aac832e847d97bb9
+      internalID: 7587921087546837161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec33386f417ce4dad372b1b7b08896
+      internalID: -635506550254374389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2a831505c68fc4ebef218abda35fc8
+      internalID: 8173404882316581871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65d92f69d4c4141b7a00428951c854
+      internalID: -448090933998381935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ddea457bbb804c9e17ed02ffac46e
+      internalID: 6466265764517688830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9666464f3f844d80c0245358d1034
+      internalID: -7966348838408378839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7990a61db991d14e9f934cad0d2963e
+      internalID: 6890954481469274000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae3e1dd3796add40858c9512c9589bd
+      internalID: -7554249645710873978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128a422fdf58f54c8f56a1b5d7a88d9
+      internalID: 8728329107189812966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67fcb23a29c8a54ba7f0812fb3e1135
+      internalID: -8527483627979098822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d35f6a6c884634e8f227b287eb5d7f
+      internalID: -2603507696043259375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cd9a92575e9714593f255323227fb8
+      internalID: -815305325133411192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d0ce89a4a17e042be0781124d70943
+      internalID: 1946583068506494837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe3fca1f685034889942f35e9891a6
+      internalID: -4033271019146569741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c528bfec0f0ac064cb014a77fda43372
+      internalID: -6863273759686277329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 223
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a591ad67f98e94c84002d5b98e7a1c
+      internalID: 4638815710818733986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 223
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8bf10e6b1ae4f40b6ab84e65b872be
+      internalID: -5348076420658144292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_47
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292f8e1a984c4c4297e7d7f85f8f5b4
+      internalID: -360899842085985203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92828a5515b528840ad5e9b2eb3aacca
+      internalID: -6460886956582761877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d39af8da8585648b688e8ba3eb3584
+      internalID: -5112980332999544064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b19d568053f164fbb2c1cb905ebb8e
+      internalID: -2135950650843123888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conference_woman_16x16_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 223
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32568a46912f94f8dadf601f9c2b9b
+      internalID: 7853249632230006032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 74ec6cb1689fd0e428ff08b1dc01a98d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Conference_woman_16x16_0: 5092268376744647299
+      Conference_woman_16x16_1: -8735681329762012377
+      Conference_woman_16x16_10: -3559981576349679410
+      Conference_woman_16x16_100: 664943934
+      Conference_woman_16x16_101: -1688192168
+      Conference_woman_16x16_102: 268651457
+      Conference_woman_16x16_103: 1630340939
+      Conference_woman_16x16_104: 1256222909
+      Conference_woman_16x16_105: 1645072515
+      Conference_woman_16x16_106: -817049877
+      Conference_woman_16x16_107: 2139748742
+      Conference_woman_16x16_108: 1648167957
+      Conference_woman_16x16_109: -1597839417
+      Conference_woman_16x16_11: -3336256224399414093
+      Conference_woman_16x16_110: -583086662
+      Conference_woman_16x16_111: -1236087331
+      Conference_woman_16x16_112: -1450381899
+      Conference_woman_16x16_113: -1415449740
+      Conference_woman_16x16_12: -9003609849240549015
+      Conference_woman_16x16_13: -5605725124118238570
+      Conference_woman_16x16_14: -6282257190708523555
+      Conference_woman_16x16_15: 3904629341996416054
+      Conference_woman_16x16_16: 3328277683737357110
+      Conference_woman_16x16_17: 7759936443614687740
+      Conference_woman_16x16_18: 5149191008474566742
+      Conference_woman_16x16_19: -5954258064444008673
+      Conference_woman_16x16_2: -8370153048698290490
+      Conference_woman_16x16_20: -4997445412058291473
+      Conference_woman_16x16_21: -7941904271920690203
+      Conference_woman_16x16_22: 5824069534209892154
+      Conference_woman_16x16_23: 1902278741005476384
+      Conference_woman_16x16_24: -4316769135724195276
+      Conference_woman_16x16_25: 979791615453167186
+      Conference_woman_16x16_26: -8411804609446028788
+      Conference_woman_16x16_27: 5067455843971158754
+      Conference_woman_16x16_28: 3143650562173251350
+      Conference_woman_16x16_29: -4856763899195306584
+      Conference_woman_16x16_3: -4558345684361327605
+      Conference_woman_16x16_30: 7587921087546837161
+      Conference_woman_16x16_31: -635506550254374389
+      Conference_woman_16x16_32: 8173404882316581871
+      Conference_woman_16x16_33: -448090933998381935
+      Conference_woman_16x16_34: 6466265764517688830
+      Conference_woman_16x16_35: -7966348838408378839
+      Conference_woman_16x16_36: 6890954481469274000
+      Conference_woman_16x16_37: -7554249645710873978
+      Conference_woman_16x16_38: 8728329107189812966
+      Conference_woman_16x16_39: -8527483627979098822
+      Conference_woman_16x16_4: 7610989090238077221
+      Conference_woman_16x16_40: -2603507696043259375
+      Conference_woman_16x16_41: -815305325133411192
+      Conference_woman_16x16_42: 1946583068506494837
+      Conference_woman_16x16_43: -4033271019146569741
+      Conference_woman_16x16_44: -6863273759686277329
+      Conference_woman_16x16_45: 4638815710818733986
+      Conference_woman_16x16_46: -5348076420658144292
+      Conference_woman_16x16_47: -360899842085985203
+      Conference_woman_16x16_48: -6460886956582761877
+      Conference_woman_16x16_49: -5112980332999544064
+      Conference_woman_16x16_5: -8006224544118938936
+      Conference_woman_16x16_50: -2135950650843123888
+      Conference_woman_16x16_51: 7853249632230006032
+      Conference_woman_16x16_52: 4539435158154892425
+      Conference_woman_16x16_53: 3415788419882622664
+      Conference_woman_16x16_54: -5828704817757995886
+      Conference_woman_16x16_55: -7572956232865901063
+      Conference_woman_16x16_56: -4581963118627243249
+      Conference_woman_16x16_57: -8425658569116635989
+      Conference_woman_16x16_58: 1522555451679250855
+      Conference_woman_16x16_59: 8270559439870411780
+      Conference_woman_16x16_6: 7229268284367362791
+      Conference_woman_16x16_60: -988091486540233019
+      Conference_woman_16x16_61: 6405073858101590026
+      Conference_woman_16x16_62: -5772671813379284317
+      Conference_woman_16x16_63: 7915229387943602643
+      Conference_woman_16x16_64: -8849306188769809345
+      Conference_woman_16x16_65: -3303116661823769101
+      Conference_woman_16x16_66: 4838612860882088616
+      Conference_woman_16x16_67: -7307196491465205249
+      Conference_woman_16x16_68: 2391982611162109936
+      Conference_woman_16x16_69: -5552459671784119779
+      Conference_woman_16x16_7: 9044397067293239038
+      Conference_woman_16x16_70: -4028960041181826714
+      Conference_woman_16x16_71: 1284004121453892293
+      Conference_woman_16x16_72: 1750215902114476681
+      Conference_woman_16x16_73: 6377858028536540362
+      Conference_woman_16x16_74: 5621795439573197848
+      Conference_woman_16x16_75: -1778850637551205500
+      Conference_woman_16x16_76: 3108795337600012535
+      Conference_woman_16x16_77: -6485916772343487881
+      Conference_woman_16x16_78: 3528482440567172281
+      Conference_woman_16x16_79: -4330738790856239174
+      Conference_woman_16x16_8: 6295256829076919280
+      Conference_woman_16x16_80: -4132253745655114780
+      Conference_woman_16x16_81: 3913230129162842264
+      Conference_woman_16x16_82: 6041678878109126901
+      Conference_woman_16x16_83: 1237807209188741005
+      Conference_woman_16x16_84: -315654186309340901
+      Conference_woman_16x16_85: -8601986292510401412
+      Conference_woman_16x16_86: -2690172621775850607
+      Conference_woman_16x16_87: -8612350497008111347
+      Conference_woman_16x16_88: 151720399801890468
+      Conference_woman_16x16_89: 8666758391153998790
+      Conference_woman_16x16_9: 1288781262739246276
+      Conference_woman_16x16_90: 576371799130102648
+      Conference_woman_16x16_91: -912439249580182677
+      Conference_woman_16x16_92: -54785806954606178
+      Conference_woman_16x16_93: -256990528
+      Conference_woman_16x16_94: -133639384
+      Conference_woman_16x16_95: -886505206
+      Conference_woman_16x16_96: 910743928
+      Conference_woman_16x16_97: 1196920340
+      Conference_woman_16x16_98: -1489403694
+      Conference_woman_16x16_99: 868495967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 0885994b7b04b174e9a85c1c42fb7c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3466160911495782848
+    second: Pier_16x16_0
+  - first:
+      213: -7516163933396504805
+    second: Pier_16x16_1
+  - first:
+      213: 7295595773694679076
+    second: Pier_16x16_2
+  - first:
+      213: 6504118305672261860
+    second: Pier_16x16_3
+  - first:
+      213: 4582390862011282426
+    second: Pier_16x16_4
+  - first:
+      213: -6373081103791181665
+    second: Pier_16x16_5
+  - first:
+      213: -8578570102682257346
+    second: Pier_16x16_6
+  - first:
+      213: 3059390492881912953
+    second: Pier_16x16_7
+  - first:
+      213: 8103769904756398457
+    second: Pier_16x16_8
+  - first:
+      213: -5609667944933661502
+    second: Pier_16x16_9
+  - first:
+      213: -6437665487218090980
+    second: Pier_16x16_10
+  - first:
+      213: 3110602566969360577
+    second: Pier_16x16_11
+  - first:
+      213: 2819447327066422060
+    second: Pier_16x16_12
+  - first:
+      213: -7097921088523679203
+    second: Pier_16x16_13
+  - first:
+      213: 1167169726537122927
+    second: Pier_16x16_14
+  - first:
+      213: 8040754969828867769
+    second: Pier_16x16_15
+  - first:
+      213: 2067090466844983692
+    second: Pier_16x16_16
+  - first:
+      213: 3030555858730043540
+    second: Pier_16x16_17
+  - first:
+      213: 5605677856836988283
+    second: Pier_16x16_18
+  - first:
+      213: -3295726325713848987
+    second: Pier_16x16_19
+  - first:
+      213: 1256453939085160510
+    second: Pier_16x16_20
+  - first:
+      213: 6293875301687294507
+    second: Pier_16x16_21
+  - first:
+      213: -3830431024740131764
+    second: Pier_16x16_22
+  - first:
+      213: 3468698440266069399
+    second: Pier_16x16_23
+  - first:
+      213: 9184342297251898264
+    second: Pier_16x16_24
+  - first:
+      213: 4102992983741138628
+    second: Pier_16x16_25
+  - first:
+      213: 6526875857986274643
+    second: Pier_16x16_26
+  - first:
+      213: 5907359108074433112
+    second: Pier_16x16_27
+  - first:
+      213: 7833427729118868357
+    second: Pier_16x16_28
+  - first:
+      213: -3240691785700838569
+    second: Pier_16x16_29
+  - first:
+      213: -2298952270762476566
+    second: Pier_16x16_30
+  - first:
+      213: -1272313323757982770
+    second: Pier_16x16_31
+  - first:
+      213: -2943488831737432950
+    second: Pier_16x16_32
+  - first:
+      213: -7374482601111946051
+    second: Pier_16x16_33
+  - first:
+      213: -6840977344767138574
+    second: Pier_16x16_34
+  - first:
+      213: -2311231641081468808
+    second: Pier_16x16_35
+  - first:
+      213: -1734286086641141527
+    second: Pier_16x16_36
+  - first:
+      213: 4871216641235144831
+    second: Pier_16x16_37
+  - first:
+      213: -3351829301538583635
+    second: Pier_16x16_38
+  - first:
+      213: -3696159616532454976
+    second: Pier_16x16_39
+  - first:
+      213: -197074179214040799
+    second: Pier_16x16_40
+  - first:
+      213: -80094073415354162
+    second: Pier_16x16_41
+  - first:
+      213: -758931047108187791
+    second: Pier_16x16_42
+  - first:
+      213: 7937786058588597133
+    second: Pier_16x16_43
+  - first:
+      213: 4815947896620057295
+    second: Pier_16x16_44
+  - first:
+      213: 5817707449681246608
+    second: Pier_16x16_45
+  - first:
+      213: -6521427331261801741
+    second: Pier_16x16_46
+  - first:
+      213: -3504167326373335643
+    second: Pier_16x16_47
+  - first:
+      213: -2348888978779688679
+    second: Pier_16x16_48
+  - first:
+      213: -9085604022380230007
+    second: Pier_16x16_49
+  - first:
+      213: -2951326230252775134
+    second: Pier_16x16_50
+  - first:
+      213: 1494823306299350590
+    second: Pier_16x16_51
+  - first:
+      213: 2972015615431756849
+    second: Pier_16x16_52
+  - first:
+      213: 3066490831724000517
+    second: Pier_16x16_53
+  - first:
+      213: 9045801386522702980
+    second: Pier_16x16_54
+  - first:
+      213: -3666719471519540396
+    second: Pier_16x16_55
+  - first:
+      213: -5711301248885783488
+    second: Pier_16x16_56
+  - first:
+      213: 5052003607986314062
+    second: Pier_16x16_57
+  - first:
+      213: 2238416933693259783
+    second: Pier_16x16_58
+  - first:
+      213: -7413493421143579794
+    second: Pier_16x16_59
+  - first:
+      213: -443612287762935569
+    second: Pier_16x16_60
+  - first:
+      213: 2058454839543450276
+    second: Pier_16x16_61
+  - first:
+      213: 7381188727430476958
+    second: Pier_16x16_62
+  - first:
+      213: -7617371321601560179
+    second: Pier_16x16_63
+  - first:
+      213: 5183056376242920883
+    second: Pier_16x16_64
+  - first:
+      213: -180822322820675059
+    second: Pier_16x16_65
+  - first:
+      213: 5279012871879162715
+    second: Pier_16x16_66
+  - first:
+      213: -1373226076888929133
+    second: Pier_16x16_67
+  - first:
+      213: -1396923016945721245
+    second: Pier_16x16_68
+  - first:
+      213: 6630011074854520630
+    second: Pier_16x16_69
+  - first:
+      213: -5097328882584768626
+    second: Pier_16x16_70
+  - first:
+      213: -8610072590466821835
+    second: Pier_16x16_71
+  - first:
+      213: -6442165969158328224
+    second: Pier_16x16_72
+  - first:
+      213: -5845155565822161248
+    second: Pier_16x16_73
+  - first:
+      213: -3697612285125777283
+    second: Pier_16x16_74
+  - first:
+      213: 2461937097980318443
+    second: Pier_16x16_75
+  - first:
+      213: 4348316512182817748
+    second: Pier_16x16_76
+  - first:
+      213: -6694584516707494049
+    second: Pier_16x16_77
+  - first:
+      213: 4783446996324421454
+    second: Pier_16x16_78
+  - first:
+      213: -7568055864519927086
+    second: Pier_16x16_79
+  - first:
+      213: -4772775446181425023
+    second: Pier_16x16_80
+  - first:
+      213: -6888438716169261452
+    second: Pier_16x16_81
+  - first:
+      213: 5764738051462100100
+    second: Pier_16x16_82
+  - first:
+      213: -6947768458727995553
+    second: Pier_16x16_83
+  - first:
+      213: 748668316855158812
+    second: Pier_16x16_84
+  - first:
+      213: 4834882436387008517
+    second: Pier_16x16_85
+  - first:
+      213: 3518240198526680830
+    second: Pier_16x16_86
+  - first:
+      213: -8855025840419088568
+    second: Pier_16x16_87
+  - first:
+      213: 9150286584450849422
+    second: Pier_16x16_88
+  - first:
+      213: -7820816520452783124
+    second: Pier_16x16_89
+  - first:
+      213: 5494105732056260283
+    second: Pier_16x16_90
+  - first:
+      213: 5989573783156159033
+    second: Pier_16x16_91
+  - first:
+      213: -3263062403723735535
+    second: Pier_16x16_92
+  - first:
+      213: -8535962515452026938
+    second: Pier_16x16_93
+  - first:
+      213: -1726598710821737287
+    second: Pier_16x16_94
+  - first:
+      213: 1964197244966376546
+    second: Pier_16x16_95
+  - first:
+      213: -4253168599656011548
+    second: Pier_16x16_96
+  - first:
+      213: -4960046904658915200
+    second: Pier_16x16_97
+  - first:
+      213: 5286412209007223592
+    second: Pier_16x16_98
+  - first:
+      213: 752596428937703237
+    second: Pier_16x16_99
+  - first:
+      213: 7007165314116156102
+    second: Pier_16x16_100
+  - first:
+      213: -1124174304247803745
+    second: Pier_16x16_101
+  - first:
+      213: 7995304276891107358
+    second: Pier_16x16_102
+  - first:
+      213: 3347145085426547672
+    second: Pier_16x16_103
+  - first:
+      213: 1527708365812470391
+    second: Pier_16x16_104
+  - first:
+      213: 1096597750008976272
+    second: Pier_16x16_105
+  - first:
+      213: -4902991947453253618
+    second: Pier_16x16_106
+  - first:
+      213: 8591247215495384826
+    second: Pier_16x16_107
+  - first:
+      213: 106295943770187550
+    second: Pier_16x16_108
+  - first:
+      213: -6233429479084476426
+    second: Pier_16x16_109
+  - first:
+      213: 7457690785289593927
+    second: Pier_16x16_110
+  - first:
+      213: -8164974476997349347
+    second: Pier_16x16_111
+  - first:
+      213: -8746795080869012820
+    second: Pier_16x16_112
+  - first:
+      213: 1532529524770398887
+    second: Pier_16x16_113
+  - first:
+      213: 5446153525946971243
+    second: Pier_16x16_114
+  - first:
+      213: 2699613070577946592
+    second: Pier_16x16_115
+  - first:
+      213: 4483170976619768888
+    second: Pier_16x16_116
+  - first:
+      213: -8128125192530881307
+    second: Pier_16x16_117
+  - first:
+      213: 1474204725693932754
+    second: Pier_16x16_118
+  - first:
+      213: 2712347585103988526
+    second: Pier_16x16_119
+  - first:
+      213: -6246997855267371285
+    second: Pier_16x16_120
+  - first:
+      213: -8459209731966647764
+    second: Pier_16x16_121
+  - first:
+      213: 7436463328371012902
+    second: Pier_16x16_122
+  - first:
+      213: 3242829728741988042
+    second: Pier_16x16_123
+  - first:
+      213: -1706139233874228601
+    second: Pier_16x16_124
+  - first:
+      213: -5657764647785702662
+    second: Pier_16x16_125
+  - first:
+      213: 7153703519904967050
+    second: Pier_16x16_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pier_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb402875d08f474458be3aa3fb1e057f
+      internalID: 3466160911495782848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6082bf6580aabb408d4edd6a4ac3974
+      internalID: -7516163933396504805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834fa7019eb81fc489c79426b312a8d7
+      internalID: 7295595773694679076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec882473b43b540bdbc0250463e31f
+      internalID: 6504118305672261860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c054bb708d792645b18afcae88c7d26
+      internalID: 4582390862011282426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3a12c7bfbd7c649885563a751dab88
+      internalID: -6373081103791181665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b120b118fb5094b9d6964f0b4d4b5f
+      internalID: -8578570102682257346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8306a7cd8bb4743817795fdf143afe
+      internalID: 3059390492881912953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2a11b7a1bfade40997dfdf70fe7cc7
+      internalID: 8103769904756398457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4acad5cf8d5944bb23d8ecbcc7b463
+      internalID: -5609667944933661502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca087cb0131ca041baf169b86e0cb60
+      internalID: -6437665487218090980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04c62812e770548820fb998e7187b1
+      internalID: 3110602566969360577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974fe74b052b25469d20bb2138a0c22
+      internalID: 2819447327066422060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888fe36e781c9ba4c85843d39c5a699c
+      internalID: -7097921088523679203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277c7a5d21db97a418bcdbb1cf2520a8
+      internalID: 1167169726537122927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14092f4b5f769ef4d971e6863809007e
+      internalID: 8040754969828867769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb732768ca21d4b9a4f1a2d8a835c9
+      internalID: 2067090466844983692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4c6ebf48f5fc49956c061023fedeb
+      internalID: 3030555858730043540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pier_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda89ee615f6bb94ba4cdd7868595003
+      internalID: 5605677856836988283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e30a774be25c354a857c60874c60d4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pier_16x16_0: 3466160911495782848
+      Pier_16x16_1: -7516163933396504805
+      Pier_16x16_10: -6437665487218090980
+      Pier_16x16_100: 7007165314116156102
+      Pier_16x16_101: -1124174304247803745
+      Pier_16x16_102: 7995304276891107358
+      Pier_16x16_103: 3347145085426547672
+      Pier_16x16_104: 1527708365812470391
+      Pier_16x16_105: 1096597750008976272
+      Pier_16x16_106: -4902991947453253618
+      Pier_16x16_107: 8591247215495384826
+      Pier_16x16_108: 106295943770187550
+      Pier_16x16_109: -6233429479084476426
+      Pier_16x16_11: 3110602566969360577
+      Pier_16x16_110: 7457690785289593927
+      Pier_16x16_111: -8164974476997349347
+      Pier_16x16_112: -8746795080869012820
+      Pier_16x16_113: 1532529524770398887
+      Pier_16x16_114: 5446153525946971243
+      Pier_16x16_115: 2699613070577946592
+      Pier_16x16_116: 4483170976619768888
+      Pier_16x16_117: -8128125192530881307
+      Pier_16x16_118: 1474204725693932754
+      Pier_16x16_119: 2712347585103988526
+      Pier_16x16_12: 2819447327066422060
+      Pier_16x16_120: -6246997855267371285
+      Pier_16x16_121: -8459209731966647764
+      Pier_16x16_122: 7436463328371012902
+      Pier_16x16_123: 3242829728741988042
+      Pier_16x16_124: -1706139233874228601
+      Pier_16x16_125: -5657764647785702662
+      Pier_16x16_126: 7153703519904967050
+      Pier_16x16_13: -7097921088523679203
+      Pier_16x16_14: 1167169726537122927
+      Pier_16x16_15: 8040754969828867769
+      Pier_16x16_16: 2067090466844983692
+      Pier_16x16_17: 3030555858730043540
+      Pier_16x16_18: 5605677856836988283
+      Pier_16x16_19: -3295726325713848987
+      Pier_16x16_2: 7295595773694679076
+      Pier_16x16_20: 1256453939085160510
+      Pier_16x16_21: 6293875301687294507
+      Pier_16x16_22: -3830431024740131764
+      Pier_16x16_23: 3468698440266069399
+      Pier_16x16_24: 9184342297251898264
+      Pier_16x16_25: 4102992983741138628
+      Pier_16x16_26: 6526875857986274643
+      Pier_16x16_27: 5907359108074433112
+      Pier_16x16_28: 7833427729118868357
+      Pier_16x16_29: -3240691785700838569
+      Pier_16x16_3: 6504118305672261860
+      Pier_16x16_30: -2298952270762476566
+      Pier_16x16_31: -1272313323757982770
+      Pier_16x16_32: -2943488831737432950
+      Pier_16x16_33: -7374482601111946051
+      Pier_16x16_34: -6840977344767138574
+      Pier_16x16_35: -2311231641081468808
+      Pier_16x16_36: -1734286086641141527
+      Pier_16x16_37: 4871216641235144831
+      Pier_16x16_38: -3351829301538583635
+      Pier_16x16_39: -3696159616532454976
+      Pier_16x16_4: 4582390862011282426
+      Pier_16x16_40: -197074179214040799
+      Pier_16x16_41: -80094073415354162
+      Pier_16x16_42: -758931047108187791
+      Pier_16x16_43: 7937786058588597133
+      Pier_16x16_44: 4815947896620057295
+      Pier_16x16_45: 5817707449681246608
+      Pier_16x16_46: -6521427331261801741
+      Pier_16x16_47: -3504167326373335643
+      Pier_16x16_48: -2348888978779688679
+      Pier_16x16_49: -9085604022380230007
+      Pier_16x16_5: -6373081103791181665
+      Pier_16x16_50: -2951326230252775134
+      Pier_16x16_51: 1494823306299350590
+      Pier_16x16_52: 2972015615431756849
+      Pier_16x16_53: 3066490831724000517
+      Pier_16x16_54: 9045801386522702980
+      Pier_16x16_55: -3666719471519540396
+      Pier_16x16_56: -5711301248885783488
+      Pier_16x16_57: 5052003607986314062
+      Pier_16x16_58: 2238416933693259783
+      Pier_16x16_59: -7413493421143579794
+      Pier_16x16_6: -8578570102682257346
+      Pier_16x16_60: -443612287762935569
+      Pier_16x16_61: 2058454839543450276
+      Pier_16x16_62: 7381188727430476958
+      Pier_16x16_63: -7617371321601560179
+      Pier_16x16_64: 5183056376242920883
+      Pier_16x16_65: -180822322820675059
+      Pier_16x16_66: 5279012871879162715
+      Pier_16x16_67: -1373226076888929133
+      Pier_16x16_68: -1396923016945721245
+      Pier_16x16_69: 6630011074854520630
+      Pier_16x16_7: 3059390492881912953
+      Pier_16x16_70: -5097328882584768626
+      Pier_16x16_71: -8610072590466821835
+      Pier_16x16_72: -6442165969158328224
+      Pier_16x16_73: -5845155565822161248
+      Pier_16x16_74: -3697612285125777283
+      Pier_16x16_75: 2461937097980318443
+      Pier_16x16_76: 4348316512182817748
+      Pier_16x16_77: -6694584516707494049
+      Pier_16x16_78: 4783446996324421454
+      Pier_16x16_79: -7568055864519927086
+      Pier_16x16_8: 8103769904756398457
+      Pier_16x16_80: -4772775446181425023
+      Pier_16x16_81: -6888438716169261452
+      Pier_16x16_82: 5764738051462100100
+      Pier_16x16_83: -6947768458727995553
+      Pier_16x16_84: 748668316855158812
+      Pier_16x16_85: 4834882436387008517
+      Pier_16x16_86: 3518240198526680830
+      Pier_16x16_87: -8855025840419088568
+      Pier_16x16_88: 9150286584450849422
+      Pier_16x16_89: -7820816520452783124
+      Pier_16x16_9: -5609667944933661502
+      Pier_16x16_90: 5494105732056260283
+      Pier_16x16_91: 5989573783156159033
+      Pier_16x16_92: -3263062403723735535
+      Pier_16x16_93: -8535962515452026938
+      Pier_16x16_94: -1726598710821737287
+      Pier_16x16_95: 1964197244966376546
+      Pier_16x16_96: -4253168599656011548
+      Pier_16x16_97: -4960046904658915200
+      Pier_16x16_98: 5286412209007223592
+      Pier_16x16_99: 752596428937703237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

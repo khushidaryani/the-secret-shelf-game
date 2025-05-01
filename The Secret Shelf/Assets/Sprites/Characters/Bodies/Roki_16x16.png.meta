@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: cbf44b1e444394346a1a65df91be74d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7112348390638598602
+    second: Roki_16x16_0
+  - first:
+      213: -2742055560617528496
+    second: Roki_16x16_1
+  - first:
+      213: 1414833441878992754
+    second: Roki_16x16_2
+  - first:
+      213: -3077301741724922658
+    second: Roki_16x16_3
+  - first:
+      213: 1496272957283443593
+    second: Roki_16x16_4
+  - first:
+      213: -4883586655950284581
+    second: Roki_16x16_5
+  - first:
+      213: -4401073709017720357
+    second: Roki_16x16_6
+  - first:
+      213: 3703795877497324149
+    second: Roki_16x16_7
+  - first:
+      213: -6751402081693100014
+    second: Roki_16x16_8
+  - first:
+      213: 8255242846108810692
+    second: Roki_16x16_9
+  - first:
+      213: 2233778293876469173
+    second: Roki_16x16_10
+  - first:
+      213: -4148917048449376971
+    second: Roki_16x16_11
+  - first:
+      213: 278863635535064369
+    second: Roki_16x16_12
+  - first:
+      213: 2591469802564531341
+    second: Roki_16x16_13
+  - first:
+      213: 2872104508656580018
+    second: Roki_16x16_14
+  - first:
+      213: 8972241624093196149
+    second: Roki_16x16_15
+  - first:
+      213: -1474895480766199220
+    second: Roki_16x16_16
+  - first:
+      213: -1582662382029236986
+    second: Roki_16x16_17
+  - first:
+      213: 8160303228468446776
+    second: Roki_16x16_18
+  - first:
+      213: -8848672446024680827
+    second: Roki_16x16_19
+  - first:
+      213: -1889675760725502076
+    second: Roki_16x16_20
+  - first:
+      213: 1906317911401593102
+    second: Roki_16x16_21
+  - first:
+      213: 7511978399776406440
+    second: Roki_16x16_22
+  - first:
+      213: -3479796192863478232
+    second: Roki_16x16_23
+  - first:
+      213: -1612913106914541206
+    second: Roki_16x16_24
+  - first:
+      213: -4096729290659233337
+    second: Roki_16x16_25
+  - first:
+      213: 9191546154054952227
+    second: Roki_16x16_26
+  - first:
+      213: -8162093868485417901
+    second: Roki_16x16_27
+  - first:
+      213: -1207210471618352275
+    second: Roki_16x16_28
+  - first:
+      213: 3169947003147996848
+    second: Roki_16x16_29
+  - first:
+      213: 6172706874704913004
+    second: Roki_16x16_30
+  - first:
+      213: -6916565001360349534
+    second: Roki_16x16_31
+  - first:
+      213: -2878919433255232659
+    second: Roki_16x16_32
+  - first:
+      213: -7270152361118873359
+    second: Roki_16x16_33
+  - first:
+      213: -8207471361478797185
+    second: Roki_16x16_34
+  - first:
+      213: 4055513412719443003
+    second: Roki_16x16_35
+  - first:
+      213: -9218909101699844864
+    second: Roki_16x16_36
+  - first:
+      213: -7448200919732157377
+    second: Roki_16x16_37
+  - first:
+      213: -4704176489547069638
+    second: Roki_16x16_38
+  - first:
+      213: -5468551417701295916
+    second: Roki_16x16_39
+  - first:
+      213: -8411845899141152722
+    second: Roki_16x16_40
+  - first:
+      213: -237154821716726760
+    second: Roki_16x16_41
+  - first:
+      213: 2199945410511237407
+    second: Roki_16x16_42
+  - first:
+      213: 2169683681659633694
+    second: Roki_16x16_43
+  - first:
+      213: 938519026358379335
+    second: Roki_16x16_44
+  - first:
+      213: -4012171587351002051
+    second: Roki_16x16_45
+  - first:
+      213: -256098412244285455
+    second: Roki_16x16_46
+  - first:
+      213: -972552388944534088
+    second: Roki_16x16_47
+  - first:
+      213: 24941243531054622
+    second: Roki_16x16_48
+  - first:
+      213: 6748256859298012539
+    second: Roki_16x16_49
+  - first:
+      213: 3412395194163718682
+    second: Roki_16x16_50
+  - first:
+      213: -8946300490957931945
+    second: Roki_16x16_51
+  - first:
+      213: 5783993541008577028
+    second: Roki_16x16_52
+  - first:
+      213: 5027829402215439233
+    second: Roki_16x16_53
+  - first:
+      213: 1559861472924330093
+    second: Roki_16x16_54
+  - first:
+      213: -7315892629331974696
+    second: Roki_16x16_55
+  - first:
+      213: 417662044010569978
+    second: Roki_16x16_56
+  - first:
+      213: -1898510475499594552
+    second: Roki_16x16_57
+  - first:
+      213: -3631417343437432458
+    second: Roki_16x16_58
+  - first:
+      213: -5376456245745132368
+    second: Roki_16x16_59
+  - first:
+      213: 8800642080182174665
+    second: Roki_16x16_60
+  - first:
+      213: 5778138815455410312
+    second: Roki_16x16_61
+  - first:
+      213: 1884005955724164393
+    second: Roki_16x16_62
+  - first:
+      213: 6799905691694445420
+    second: Roki_16x16_63
+  - first:
+      213: -5675069338318437227
+    second: Roki_16x16_64
+  - first:
+      213: 4282267458517574529
+    second: Roki_16x16_65
+  - first:
+      213: -5213811872431259535
+    second: Roki_16x16_66
+  - first:
+      213: -7631494838374653638
+    second: Roki_16x16_67
+  - first:
+      213: 2884156617169585663
+    second: Roki_16x16_68
+  - first:
+      213: -3111783553388715508
+    second: Roki_16x16_69
+  - first:
+      213: -5649801414912415084
+    second: Roki_16x16_70
+  - first:
+      213: -1063154636919547011
+    second: Roki_16x16_71
+  - first:
+      213: 5439336212636264011
+    second: Roki_16x16_72
+  - first:
+      213: -7733951663648187057
+    second: Roki_16x16_73
+  - first:
+      213: 5067984062082246915
+    second: Roki_16x16_74
+  - first:
+      213: -2080478779151849027
+    second: Roki_16x16_75
+  - first:
+      213: 76161204335042442
+    second: Roki_16x16_76
+  - first:
+      213: -2532402108760956055
+    second: Roki_16x16_77
+  - first:
+      213: -2749171458809454823
+    second: Roki_16x16_78
+  - first:
+      213: -1579478711194707415
+    second: Roki_16x16_79
+  - first:
+      213: 2650560201869582508
+    second: Roki_16x16_80
+  - first:
+      213: -8154768435722486365
+    second: Roki_16x16_81
+  - first:
+      213: 184000079767890363
+    second: Roki_16x16_82
+  - first:
+      213: 592145101516738137
+    second: Roki_16x16_83
+  - first:
+      213: -1234008452168539217
+    second: Roki_16x16_84
+  - first:
+      213: -1617818605657783067
+    second: Roki_16x16_85
+  - first:
+      213: 248967976458206713
+    second: Roki_16x16_86
+  - first:
+      213: 4525653756258383887
+    second: Roki_16x16_87
+  - first:
+      213: 1432079410725279919
+    second: Roki_16x16_88
+  - first:
+      213: -7774161108877238669
+    second: Roki_16x16_89
+  - first:
+      213: 6544613630060804100
+    second: Roki_16x16_90
+  - first:
+      213: -3331588901492411509
+    second: Roki_16x16_91
+  - first:
+      213: -4865827146954718770
+    second: Roki_16x16_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roki_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 255
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc8bc1ce5a3b45d0800000000000000
+      internalID: -3077301741724922658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b5d1e746839a479e0ef90b0e9fa1f
+      internalID: 7112348390638598602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a635a9df65a714b907bd85aebbefc7
+      internalID: -2742055560617528496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b27f733f1ad94e8e0a97ce5d86e98
+      internalID: 1414833441878992754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca7f10b4753b94c984cc86974b764b
+      internalID: 1496272957283443593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ecc0b2cab4754492473b366901e7f
+      internalID: -4883586655950284581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bceb2d9cf22cff4d8c83234e595bb87
+      internalID: -4401073709017720357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be38bc25ea72d4795071074874e4f3
+      internalID: 3703795877497324149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2acd942f88cc24b98bc47024b59c05
+      internalID: -6751402081693100014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d19c5ff3ded96149afa8dfdd1a0e708
+      internalID: 8255242846108810692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e1ab36474f7a1408e402deac6108d4
+      internalID: 2233778293876469173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8808b344a797ed34ea939e02ce4a9655
+      internalID: -4148917048449376971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f2a1f2604af784ea19e2a7b5115ea4
+      internalID: 278863635535064369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49d523d7298f840947029e39c8b519
+      internalID: 2591469802564531341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0aba2d07b4d0429f20aecd9145d7c
+      internalID: 2872104508656580018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2f96ade0beb664b8b2dc83322b957b
+      internalID: 8972241624093196149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767785cc9c510445919d919559a6bc9
+      internalID: -1474895480766199220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d2a26aec40174986120bcbee58a4a
+      internalID: -1582662382029236986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roki_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07353afff7731024bb4b484892d206a2
+      internalID: 8160303228468446776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b8f83e62428f2945aa148f58ceab9b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Roki_16x16_0: 7112348390638598602
+      Roki_16x16_1: -2742055560617528496
+      Roki_16x16_10: 2233778293876469173
+      Roki_16x16_11: -4148917048449376971
+      Roki_16x16_12: 278863635535064369
+      Roki_16x16_13: 2591469802564531341
+      Roki_16x16_14: 2872104508656580018
+      Roki_16x16_15: 8972241624093196149
+      Roki_16x16_16: -1474895480766199220
+      Roki_16x16_17: -1582662382029236986
+      Roki_16x16_18: 8160303228468446776
+      Roki_16x16_19: -8848672446024680827
+      Roki_16x16_2: 1414833441878992754
+      Roki_16x16_20: -1889675760725502076
+      Roki_16x16_21: 1906317911401593102
+      Roki_16x16_22: 7511978399776406440
+      Roki_16x16_23: -3479796192863478232
+      Roki_16x16_24: -1612913106914541206
+      Roki_16x16_25: -4096729290659233337
+      Roki_16x16_26: 9191546154054952227
+      Roki_16x16_27: -8162093868485417901
+      Roki_16x16_28: -1207210471618352275
+      Roki_16x16_29: 3169947003147996848
+      Roki_16x16_3: -3077301741724922658
+      Roki_16x16_30: 6172706874704913004
+      Roki_16x16_31: -6916565001360349534
+      Roki_16x16_32: -2878919433255232659
+      Roki_16x16_33: -7270152361118873359
+      Roki_16x16_34: -8207471361478797185
+      Roki_16x16_35: 4055513412719443003
+      Roki_16x16_36: -9218909101699844864
+      Roki_16x16_37: -7448200919732157377
+      Roki_16x16_38: -4704176489547069638
+      Roki_16x16_39: -5468551417701295916
+      Roki_16x16_4: 1496272957283443593
+      Roki_16x16_40: -8411845899141152722
+      Roki_16x16_41: -237154821716726760
+      Roki_16x16_42: 2199945410511237407
+      Roki_16x16_43: 2169683681659633694
+      Roki_16x16_44: 938519026358379335
+      Roki_16x16_45: -4012171587351002051
+      Roki_16x16_46: -256098412244285455
+      Roki_16x16_47: -972552388944534088
+      Roki_16x16_48: 24941243531054622
+      Roki_16x16_49: 6748256859298012539
+      Roki_16x16_5: -4883586655950284581
+      Roki_16x16_50: 3412395194163718682
+      Roki_16x16_51: -8946300490957931945
+      Roki_16x16_52: 5783993541008577028
+      Roki_16x16_53: 5027829402215439233
+      Roki_16x16_54: 1559861472924330093
+      Roki_16x16_55: -7315892629331974696
+      Roki_16x16_56: 417662044010569978
+      Roki_16x16_57: -1898510475499594552
+      Roki_16x16_58: -3631417343437432458
+      Roki_16x16_59: -5376456245745132368
+      Roki_16x16_6: -4401073709017720357
+      Roki_16x16_60: 8800642080182174665
+      Roki_16x16_61: 5778138815455410312
+      Roki_16x16_62: 1884005955724164393
+      Roki_16x16_63: 6799905691694445420
+      Roki_16x16_64: -5675069338318437227
+      Roki_16x16_65: 4282267458517574529
+      Roki_16x16_66: -5213811872431259535
+      Roki_16x16_67: -7631494838374653638
+      Roki_16x16_68: 2884156617169585663
+      Roki_16x16_69: -3111783553388715508
+      Roki_16x16_7: 3703795877497324149
+      Roki_16x16_70: -5649801414912415084
+      Roki_16x16_71: -1063154636919547011
+      Roki_16x16_72: 5439336212636264011
+      Roki_16x16_73: -7733951663648187057
+      Roki_16x16_74: 5067984062082246915
+      Roki_16x16_75: -2080478779151849027
+      Roki_16x16_76: 76161204335042442
+      Roki_16x16_77: -2532402108760956055
+      Roki_16x16_78: -2749171458809454823
+      Roki_16x16_79: -1579478711194707415
+      Roki_16x16_8: -6751402081693100014
+      Roki_16x16_80: 2650560201869582508
+      Roki_16x16_81: -8154768435722486365
+      Roki_16x16_82: 184000079767890363
+      Roki_16x16_83: 592145101516738137
+      Roki_16x16_84: -1234008452168539217
+      Roki_16x16_85: -1617818605657783067
+      Roki_16x16_86: 248967976458206713
+      Roki_16x16_87: 4525653756258383887
+      Roki_16x16_88: 1432079410725279919
+      Roki_16x16_89: -7774161108877238669
+      Roki_16x16_9: 8255242846108810692
+      Roki_16x16_90: 6544613630060804100
+      Roki_16x16_91: -3331588901492411509
+      Roki_16x16_92: -4865827146954718770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1043 @@
+fileFormatVersion: 2
+guid: 168a3574ee2c5d740a1609e5559c040c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 650791918843061476
+    second: Dan_16x16_0
+  - first:
+      213: -5549590680037487887
+    second: Dan_16x16_1
+  - first:
+      213: -237258983182049181
+    second: Dan_16x16_2
+  - first:
+      213: 5828399585448801938
+    second: Dan_16x16_3
+  - first:
+      213: -3724137695006231205
+    second: Dan_16x16_4
+  - first:
+      213: -7809083816510558913
+    second: Dan_16x16_5
+  - first:
+      213: 741720179682585849
+    second: Dan_16x16_6
+  - first:
+      213: -244474826816866251
+    second: Dan_16x16_7
+  - first:
+      213: 3313046363686024894
+    second: Dan_16x16_8
+  - first:
+      213: -8106831159763501940
+    second: Dan_16x16_9
+  - first:
+      213: -1990372522532662164
+    second: Dan_16x16_10
+  - first:
+      213: 1060812015050388700
+    second: Dan_16x16_11
+  - first:
+      213: 8666138226266096143
+    second: Dan_16x16_12
+  - first:
+      213: 5553904033582456261
+    second: Dan_16x16_13
+  - first:
+      213: 214922399955192979
+    second: Dan_16x16_14
+  - first:
+      213: -1940961486145241237
+    second: Dan_16x16_15
+  - first:
+      213: -4653946399867567535
+    second: Dan_16x16_16
+  - first:
+      213: 8857549162549294423
+    second: Dan_16x16_17
+  - first:
+      213: 8774774193876593301
+    second: Dan_16x16_18
+  - first:
+      213: 5958888073203736839
+    second: Dan_16x16_19
+  - first:
+      213: 9069923160002750222
+    second: Dan_16x16_20
+  - first:
+      213: -3795782770807904503
+    second: Dan_16x16_21
+  - first:
+      213: -7226527019899580181
+    second: Dan_16x16_22
+  - first:
+      213: 307144997631088346
+    second: Dan_16x16_23
+  - first:
+      213: -129346602054786312
+    second: Dan_16x16_24
+  - first:
+      213: 2975636289584285513
+    second: Dan_16x16_25
+  - first:
+      213: 6640482837989155398
+    second: Dan_16x16_26
+  - first:
+      213: 8976667096390457602
+    second: Dan_16x16_27
+  - first:
+      213: 2360255475006479481
+    second: Dan_16x16_28
+  - first:
+      213: -5410250793370431334
+    second: Dan_16x16_29
+  - first:
+      213: -3280925881575476700
+    second: Dan_16x16_30
+  - first:
+      213: 1232494173402763370
+    second: Dan_16x16_31
+  - first:
+      213: -2965121998249587114
+    second: Dan_16x16_32
+  - first:
+      213: -529834119798684489
+    second: Dan_16x16_33
+  - first:
+      213: 7971340090142849626
+    second: Dan_16x16_34
+  - first:
+      213: 1203178253791861038
+    second: Dan_16x16_35
+  - first:
+      213: 4323593176153092319
+    second: Dan_16x16_36
+  - first:
+      213: -6050455819045435990
+    second: Dan_16x16_37
+  - first:
+      213: -6301743237080629322
+    second: Dan_16x16_38
+  - first:
+      213: -3141446923542291881
+    second: Dan_16x16_39
+  - first:
+      213: -7168282805539643176
+    second: Dan_16x16_40
+  - first:
+      213: 4241941774890003200
+    second: Dan_16x16_41
+  - first:
+      213: -250889650749186073
+    second: Dan_16x16_42
+  - first:
+      213: 7896257198003856289
+    second: Dan_16x16_43
+  - first:
+      213: -5955227219055513156
+    second: Dan_16x16_44
+  - first:
+      213: -575899815221366963
+    second: Dan_16x16_45
+  - first:
+      213: 3479841901870354644
+    second: Dan_16x16_46
+  - first:
+      213: 6147288421773680559
+    second: Dan_16x16_47
+  - first:
+      213: -3996812975770701858
+    second: Dan_16x16_48
+  - first:
+      213: -139002732107493842
+    second: Dan_16x16_49
+  - first:
+      213: -8659337676772165362
+    second: Dan_16x16_50
+  - first:
+      213: 1061629683954562164
+    second: Dan_16x16_51
+  - first:
+      213: 5359185678707050126
+    second: Dan_16x16_52
+  - first:
+      213: -5298527025337867962
+    second: Dan_16x16_53
+  - first:
+      213: -3305745841649217210
+    second: Dan_16x16_54
+  - first:
+      213: 2669592139258610091
+    second: Dan_16x16_55
+  - first:
+      213: -1962043432492134164
+    second: Dan_16x16_56
+  - first:
+      213: -7056175890808462686
+    second: Dan_16x16_57
+  - first:
+      213: -3583369108775217039
+    second: Dan_16x16_58
+  - first:
+      213: -9203278327395978709
+    second: Dan_16x16_59
+  - first:
+      213: -7890794246222631152
+    second: Dan_16x16_60
+  - first:
+      213: 5297696283230195411
+    second: Dan_16x16_61
+  - first:
+      213: 1094617590101470830
+    second: Dan_16x16_62
+  - first:
+      213: -681888222607292881
+    second: Dan_16x16_63
+  - first:
+      213: 7033261727478280589
+    second: Dan_16x16_64
+  - first:
+      213: 1596158926589596861
+    second: Dan_16x16_65
+  - first:
+      213: -2431438553537332382
+    second: Dan_16x16_66
+  - first:
+      213: -5884060686830878276
+    second: Dan_16x16_67
+  - first:
+      213: -3809699526872511580
+    second: Dan_16x16_68
+  - first:
+      213: -6457820733306881703
+    second: Dan_16x16_69
+  - first:
+      213: 8049038173585520741
+    second: Dan_16x16_70
+  - first:
+      213: -2432099165772030034
+    second: Dan_16x16_71
+  - first:
+      213: -1011107308012785376
+    second: Dan_16x16_72
+  - first:
+      213: 8536361436042765142
+    second: Dan_16x16_73
+  - first:
+      213: 4462682692367714324
+    second: Dan_16x16_74
+  - first:
+      213: -3714919802430880455
+    second: Dan_16x16_75
+  - first:
+      213: 2942407880331576367
+    second: Dan_16x16_76
+  - first:
+      213: 1346968281644186211
+    second: Dan_16x16_77
+  - first:
+      213: -3110894381670711942
+    second: Dan_16x16_78
+  - first:
+      213: -1708935395166954709
+    second: Dan_16x16_79
+  - first:
+      213: 7785752562837477942
+    second: Dan_16x16_80
+  - first:
+      213: -8675525900541859749
+    second: Dan_16x16_81
+  - first:
+      213: 427365111272709796
+    second: Dan_16x16_82
+  - first:
+      213: 2316737129538714879
+    second: Dan_16x16_83
+  - first:
+      213: -8332423000688980038
+    second: Dan_16x16_84
+  - first:
+      213: 6652367399250778541
+    second: Dan_16x16_85
+  - first:
+      213: 7779530584039668680
+    second: Dan_16x16_86
+  - first:
+      213: -6779746946385636069
+    second: Dan_16x16_87
+  - first:
+      213: -5822749075974497424
+    second: Dan_16x16_88
+  - first:
+      213: 1624953744792836539
+    second: Dan_16x16_89
+  - first:
+      213: -8009203650323579356
+    second: Dan_16x16_90
+  - first:
+      213: 7170748667677630382
+    second: Dan_16x16_91
+  - first:
+      213: 7080460504702223082
+    second: Dan_16x16_92
+  - first:
+      213: -8357356469174771665
+    second: Dan_16x16_93
+  - first:
+      213: 3521119672339081219
+    second: Dan_16x16_94
+  - first:
+      213: 3132953774787074728
+    second: Dan_16x16_95
+  - first:
+      213: -7243936460338629862
+    second: Dan_16x16_96
+  - first:
+      213: 6794507919887823588
+    second: Dan_16x16_97
+  - first:
+      213: 43956931105612809
+    second: Dan_16x16_98
+  - first:
+      213: 7309517492053589919
+    second: Dan_16x16_99
+  - first:
+      213: 7987593164437640057
+    second: Dan_16x16_100
+  - first:
+      213: -6928910255865708981
+    second: Dan_16x16_101
+  - first:
+      213: -8662998032893394289
+    second: Dan_16x16_102
+  - first:
+      213: 1330875040909508181
+    second: Dan_16x16_103
+  - first:
+      213: -4532782596350507985
+    second: Dan_16x16_104
+  - first:
+      213: -4506424592959573460
+    second: Dan_16x16_105
+  - first:
+      213: 3005324087322887980
+    second: Dan_16x16_106
+  - first:
+      213: 6749949157739281427
+    second: Dan_16x16_107
+  - first:
+      213: 8445316811966059456
+    second: Dan_16x16_108
+  - first:
+      213: 3571830836870975571
+    second: Dan_16x16_109
+  - first:
+      213: 5421079561820243910
+    second: Dan_16x16_110
+  - first:
+      213: 1801686736797816384
+    second: Dan_16x16_111
+  - first:
+      213: 4719993918977732034
+    second: Dan_16x16_112
+  - first:
+      213: 6711370759065100994
+    second: Dan_16x16_113
+  - first:
+      213: 176980022814564089
+    second: Dan_16x16_114
+  - first:
+      213: -396628273319927668
+    second: Dan_16x16_115
+  - first:
+      213: 5095643403029613967
+    second: Dan_16x16_116
+  - first:
+      213: 114883466967030817
+    second: Dan_16x16_117
+  - first:
+      213: -5350086729668814204
+    second: Dan_16x16_118
+  - first:
+      213: -977628713455206867
+    second: Dan_16x16_119
+  - first:
+      213: -3053812856430460679
+    second: Dan_16x16_120
+  - first:
+      213: -5984592274255044841
+    second: Dan_16x16_121
+  - first:
+      213: 2346455693407048446
+    second: Dan_16x16_122
+  - first:
+      213: 3694864239476194834
+    second: Dan_16x16_123
+  - first:
+      213: -8701148574226840205
+    second: Dan_16x16_124
+  - first:
+      213: 495054007262734269
+    second: Dan_16x16_125
+  - first:
+      213: -3917519185752541560
+    second: Dan_16x16_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dan_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf90f652634938418279e485b03e7d4
+      internalID: 650791918843061476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3015898d71cfe04eabb03934b571e3e
+      internalID: -5549590680037487887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a718c34b646244c900809c67f3f574
+      internalID: -237258983182049181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 223
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2ba8852ce7abc44a0c464c84932e37
+      internalID: -3724137695006231205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06919bc5d72ca0b40b0852633fcce42b
+      internalID: -7809083816510558913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 223
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bca70adaa75ba4da6b536e64f9821c
+      internalID: 741720179682585849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 253
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d741501a195597442908c5c8ae34abcc
+      internalID: 5828399585448801938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa5ec9fc6e414c4f8d4bca229dde7a6
+      internalID: -244474826816866251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acfd75b14861eb4295e7626a8d1062e
+      internalID: 3313046363686024894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1d3fa6aeeee144b3f2a1bcd592481
+      internalID: -8106831159763501940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a912428075bf96c44afda8956e044595
+      internalID: -1990372522532662164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f532c249a600ac14a91e383000753e07
+      internalID: 1060812015050388700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24dcd367a027324191a38fa8980114f
+      internalID: 8666138226266096143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac440a2c11d59848b510e88472b0783
+      internalID: 5553904033582456261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d9282f7c33d946aa634684e171499
+      internalID: 214922399955192979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2afed33b7a97f42aa796fb6a12f6f6
+      internalID: -1940961486145241237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 192
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42e1fd2061a10458c73a56f21d0d81
+      internalID: -4653946399867567535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 192
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4055371710187479f8bec50a5d8932
+      internalID: 8857549162549294423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dan_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 192
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa375ea1e9a8a45b315d2edec3f6e2
+      internalID: 8774774193876593301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b79665a987c8804783edb6b4097a99b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dan_16x16_0: 650791918843061476
+      Dan_16x16_1: -5549590680037487887
+      Dan_16x16_10: -1990372522532662164
+      Dan_16x16_100: 7987593164437640057
+      Dan_16x16_101: -6928910255865708981
+      Dan_16x16_102: -8662998032893394289
+      Dan_16x16_103: 1330875040909508181
+      Dan_16x16_104: -4532782596350507985
+      Dan_16x16_105: -4506424592959573460
+      Dan_16x16_106: 3005324087322887980
+      Dan_16x16_107: 6749949157739281427
+      Dan_16x16_108: 8445316811966059456
+      Dan_16x16_109: 3571830836870975571
+      Dan_16x16_11: 1060812015050388700
+      Dan_16x16_110: 5421079561820243910
+      Dan_16x16_111: 1801686736797816384
+      Dan_16x16_112: 4719993918977732034
+      Dan_16x16_113: 6711370759065100994
+      Dan_16x16_114: 176980022814564089
+      Dan_16x16_115: -396628273319927668
+      Dan_16x16_116: 5095643403029613967
+      Dan_16x16_117: 114883466967030817
+      Dan_16x16_118: -5350086729668814204
+      Dan_16x16_119: -977628713455206867
+      Dan_16x16_12: 8666138226266096143
+      Dan_16x16_120: -3053812856430460679
+      Dan_16x16_121: -5984592274255044841
+      Dan_16x16_122: 2346455693407048446
+      Dan_16x16_123: 3694864239476194834
+      Dan_16x16_124: -8701148574226840205
+      Dan_16x16_125: 495054007262734269
+      Dan_16x16_126: -3917519185752541560
+      Dan_16x16_13: 5553904033582456261
+      Dan_16x16_14: 214922399955192979
+      Dan_16x16_15: -1940961486145241237
+      Dan_16x16_16: -4653946399867567535
+      Dan_16x16_17: 8857549162549294423
+      Dan_16x16_18: 8774774193876593301
+      Dan_16x16_19: 5958888073203736839
+      Dan_16x16_2: -237258983182049181
+      Dan_16x16_20: 9069923160002750222
+      Dan_16x16_21: -3795782770807904503
+      Dan_16x16_22: -7226527019899580181
+      Dan_16x16_23: 307144997631088346
+      Dan_16x16_24: -129346602054786312
+      Dan_16x16_25: 2975636289584285513
+      Dan_16x16_26: 6640482837989155398
+      Dan_16x16_27: 8976667096390457602
+      Dan_16x16_28: 2360255475006479481
+      Dan_16x16_29: -5410250793370431334
+      Dan_16x16_3: 5828399585448801938
+      Dan_16x16_30: -3280925881575476700
+      Dan_16x16_31: 1232494173402763370
+      Dan_16x16_32: -2965121998249587114
+      Dan_16x16_33: -529834119798684489
+      Dan_16x16_34: 7971340090142849626
+      Dan_16x16_35: 1203178253791861038
+      Dan_16x16_36: 4323593176153092319
+      Dan_16x16_37: -6050455819045435990
+      Dan_16x16_38: -6301743237080629322
+      Dan_16x16_39: -3141446923542291881
+      Dan_16x16_4: -3724137695006231205
+      Dan_16x16_40: -7168282805539643176
+      Dan_16x16_41: 4241941774890003200
+      Dan_16x16_42: -250889650749186073
+      Dan_16x16_43: 7896257198003856289
+      Dan_16x16_44: -5955227219055513156
+      Dan_16x16_45: -575899815221366963
+      Dan_16x16_46: 3479841901870354644
+      Dan_16x16_47: 6147288421773680559
+      Dan_16x16_48: -3996812975770701858
+      Dan_16x16_49: -139002732107493842
+      Dan_16x16_5: -7809083816510558913
+      Dan_16x16_50: -8659337676772165362
+      Dan_16x16_51: 1061629683954562164
+      Dan_16x16_52: 5359185678707050126
+      Dan_16x16_53: -5298527025337867962
+      Dan_16x16_54: -3305745841649217210
+      Dan_16x16_55: 2669592139258610091
+      Dan_16x16_56: -1962043432492134164
+      Dan_16x16_57: -7056175890808462686
+      Dan_16x16_58: -3583369108775217039
+      Dan_16x16_59: -9203278327395978709
+      Dan_16x16_6: 741720179682585849
+      Dan_16x16_60: -7890794246222631152
+      Dan_16x16_61: 5297696283230195411
+      Dan_16x16_62: 1094617590101470830
+      Dan_16x16_63: -681888222607292881
+      Dan_16x16_64: 7033261727478280589
+      Dan_16x16_65: 1596158926589596861
+      Dan_16x16_66: -2431438553537332382
+      Dan_16x16_67: -5884060686830878276
+      Dan_16x16_68: -3809699526872511580
+      Dan_16x16_69: -6457820733306881703
+      Dan_16x16_7: -244474826816866251
+      Dan_16x16_70: 8049038173585520741
+      Dan_16x16_71: -2432099165772030034
+      Dan_16x16_72: -1011107308012785376
+      Dan_16x16_73: 8536361436042765142
+      Dan_16x16_74: 4462682692367714324
+      Dan_16x16_75: -3714919802430880455
+      Dan_16x16_76: 2942407880331576367
+      Dan_16x16_77: 1346968281644186211
+      Dan_16x16_78: -3110894381670711942
+      Dan_16x16_79: -1708935395166954709
+      Dan_16x16_8: 3313046363686024894
+      Dan_16x16_80: 7785752562837477942
+      Dan_16x16_81: -8675525900541859749
+      Dan_16x16_82: 427365111272709796
+      Dan_16x16_83: 2316737129538714879
+      Dan_16x16_84: -8332423000688980038
+      Dan_16x16_85: 6652367399250778541
+      Dan_16x16_86: 7779530584039668680
+      Dan_16x16_87: -6779746946385636069
+      Dan_16x16_88: -5822749075974497424
+      Dan_16x16_89: 1624953744792836539
+      Dan_16x16_9: -8106831159763501940
+      Dan_16x16_90: -8009203650323579356
+      Dan_16x16_91: 7170748667677630382
+      Dan_16x16_92: 7080460504702223082
+      Dan_16x16_93: -8357356469174771665
+      Dan_16x16_94: 3521119672339081219
+      Dan_16x16_95: 3132953774787074728
+      Dan_16x16_96: -7243936460338629862
+      Dan_16x16_97: 6794507919887823588
+      Dan_16x16_98: 43956931105612809
+      Dan_16x16_99: 7309517492053589919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
