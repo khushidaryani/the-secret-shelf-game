@@ -1,10 +1,10 @@
 const mongoose = require('mongoose');
 
 function arrayLimit(val) {
-  return val.length === 4;
+  return val.length === 3;
 }
 
-// Book schema with an array of 4 hints
+// Book schema with an array of 3 hints
 const bookSchema = new mongoose.Schema({
   ISBN: {
     type: String,
@@ -25,7 +25,7 @@ const bookSchema = new mongoose.Schema({
   },
   hints: {
     type: [String], // Array of strings
-    validate: [arrayLimit, '{PATH} must have exactly 4 hints'],
+    validate: [arrayLimit, '{PATH} must have exactly 3 hints'],
     required: true,
   }
 });

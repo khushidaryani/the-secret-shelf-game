@@ -13,8 +13,7 @@ const books = [
     hints: [
       "This book is full of crime, suspense and mystery.",
       "The main character is a young girl who becomes involved in solving a mysterious murder.",
-      "The plot is set in a small town, and the story delves into social dynamics and secrets.",
-      "The book's title is a clue - it's about murder."
+      "The plot is set in a small town, and the story delves into social dynamics and secrets."
     ]
   },
   {
@@ -23,10 +22,9 @@ const books = [
     author: "Stephen King",
     genre: "Horror",
     hints: [
-      "This book is set in a haunted hotel during the winter.",
+      "The story explores themes of isolation, mental illness, and the supernatural.",
       "The protagonist is a man who slowly loses his sanity as the hotel's dark past emerges.",
-      "It was adapted into a famous movie directed by Stanley Kubrick.",
-      "The story explores themes of isolation, mental illness, and the supernatural."
+      "It was adapted into a famous movie directed by Stanley Kubrick."
     ]
   },
   {
@@ -37,8 +35,7 @@ const books = [
     hints: [
       "The novel is set in a small town and revolves around a mysterious store.",
       "A group of people find themselves trapped inside a store and face dark forces beyond their control.",
-      "A store is connected to a sinister force that manipulates people's desires and fears.",
-      "Stephen King is the author, known for writing horror and supernatural thrillers."
+      "A store is connected to a sinister force that manipulates people's desires and fears."
     ]
   },
   {
@@ -48,9 +45,8 @@ const books = [
     genre: "Romance",
     hints: [
       "The title refers to a vivid and symbolic color in the sky.",
-      "The story revolves around personal growth and finding oneself.",
-      "The book focuses on the emotional and psychological journey of the main character.",
-      "The novel is written by a young Spanish author."
+      "The novel is written by a young Spanish author.",
+      "The book focuses on the emotional and psychological journey of the main character."
     ]
   },
   {
@@ -59,10 +55,9 @@ const books = [
     author: "Eloy Moreno",
     genre: "Contemporary Fiction",
     hints: [
+      "The protagonist believes becoming invisible is the only way to survive.",
       "This book is often read in high schools to raise awareness of bullying.",
-      "It discusses themes like school indifference and peer pressure.",
-      "The main character pretends to have superpowers as a coping mechanism.",
-      "The protagonist believes becoming invisible is the only way to survive."
+      "It discusses themes like school indifference and peer pressure."
     ]
   },
   {
@@ -73,8 +68,7 @@ const books = [
     hints: [
       "The protagonist is a woman who travels on a train every day and becomes obsessed with a couple she watches.",
       "The story is told through the perspectives of multiple women, each with their own dark secrets.",
-      "The plot is filled with unreliable narrators, making it hard to trust anyone's version of the story.",
-      "The main character witnesses something from the train."
+      "The plot is filled with unreliable narrators, making it hard to trust anyone's version of the story."
     ]
   },
   {
@@ -83,10 +77,9 @@ const books = [
     author: "Toshikazu Kawaguchi",
     genre: "Fantasy",
     hints: [
-      "You can go back in time — but only until the coffee gets cold.",
+      "It's originally a Japanese novel.",
       "The story revolves around a café with a special time-traveling twist.",
-      "This book involves time travel, but with a unique rule about how the past can be revisited.",
-      "It's originally a Japanese novel."
+      "This book involves time travel, but with a unique rule about how the past can be revisited."
     ]
   },
   { 
@@ -97,8 +90,7 @@ const books = [
     hints: [
       "A woman becomes mute after allegedly killing her husband.",
       "The story focuses on a therapist trying to unravel a woman's silence and uncover the truth.",
-      "The story is told by the main character's therapist.",
-      "It's a psychological thriller with heavy elements of mystery."
+      "The story is told by the main character's therapist."
     ]
   },
   {
@@ -107,10 +99,9 @@ const books = [
     author: "Lynn Painter",
     genre: "Romance",
     hints: [
+      "The main character wants her life to be like a movie.",
       "The title compares real life to fiction.",
-      "The protagonist is a girl obsessed with romantic movies who begins to fall for a guy who isn't her usual type.",
-      "The book plays with romantic tropes and subverts expectations, making you question the idea of 'perfect love.'",
-      "The main character wants her life to be like a movie."
+      "The book plays with romantic tropes and subverts expectations, making you question the idea of 'perfect love.'"
     ]
   },
   {
@@ -121,8 +112,7 @@ const books = [
     hints: [
       "The story is about a family where every member has committed a crime.",
       "The protagonist is an investigator who has to figure out which family member is guilty of murder.",
-      "The novel is filled with dark humor, family secrets, and a twisted mystery.",
-      "The title gives a hint — it's a mystery revolving around a family."
+      "The novel is filled with dark humor, family secrets, and a twisted mystery."
     ]
   },
   {
@@ -133,8 +123,7 @@ const books = [
     hints: [
       "It explores the blurred lines between humans and artificial beings in a dystopian future.",
       "The story dives into existential questions about humanity, empathy, and artificial intelligence.",
-      "This book inspired the movie Blade Runner.",
-      "It's a science fiction classic, questioning what it means to be human."
+      "This book inspired the movie Blade Runner."
     ]
   },
   {
@@ -145,8 +134,7 @@ const books = [
     hints: [
       "The story involves a series of mysteries that need to be solved.",
       "It takes place within a peculiar organization and focuses on its strange inner workings.",
-      "The book is filled with humor, satire, and twists that make it hard to predict the outcome.",
-      "This Spanish author is known for combining mystery and absurd humor."
+      "The book is filled with humor, satire, and twists that make it hard to predict the outcome."
     ]
   },
   {
@@ -155,10 +143,9 @@ const books = [
     author: "Elisabeth Benavent",
     genre: "Romance",
     hints: [
+      "Once upon a time there was a perfect story.",
       "The main character escapes a perfect life and begings a journey of self-discovery.",
-      "This is a romantic novel about finding love in unexpected places.",
-      "The book deals with complex themes of vulnerability, self-worth, and forgiveness.",
-      "Once upon a time there was a perfect story."
+      "This is a romantic novel about finding love in unexpected places."
     ]
   },
   {
@@ -169,8 +156,7 @@ const books = [
     hints: [
       "This book is a collection of poems exploring the beauty of life and art.",
       "The poems delve into themes of creativity, nature and the human experience.",
-      "It often reflects on deep philosophical and existential themes.",
-      "It's written by a Latin American poet known for her emotive language."
+      "It often reflects on deep philosophical and existential themes."
     ]
   }
 ];

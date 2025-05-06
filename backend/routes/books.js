@@ -2,10 +2,7 @@ const express = require('express');
 const router = express.Router();
 const { Book } = require('../models');
 
-// Middleware to parse the body of requests (necessary for POST requests)
-//app.use(express.json());
-
-// Get all books
+// GET all books
 router.get('/', async (req, res) => {
   try {
     const books = await Book.find();
@@ -15,21 +12,14 @@ router.get('/', async (req, res) => {
   }
 });
 
-// Add a new book
-router.post('/', async (req, res) => {
-  const { ISBN, title, author, genre, hints } = req.body;
-
-  if (!Array.isArray(hints) || hints.length !== 4) {
-    return res.status(400).send("The 'hints' field must be an array of exactly 4 strings.");
-  }
-
-  const book = new Book({ ISBN, title, author, genre, hints });
-
+// GET book by ISBN
+router.get('/:isbn', async (req, res) => {
   try {
-    await book.save();
-    res.status(201).send("Book successfully added");
+    const book = await Book.findOne({ ISBN: req.params.isbn });
+    if (!book) return res.status(404).send("Book not found");
+    res.json(book);
   } catch (err) {
-    res.status(500).send("Error while adding the book: " + err);
+    res.status(500).send("Error retrieving book: " + err);
   }
 });
 

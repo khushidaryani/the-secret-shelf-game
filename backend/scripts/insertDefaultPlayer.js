@@ -6,9 +6,8 @@ const uri = process.env.MONGODB_URI;
 
 const player = [
   {
-    name: "Librarian",
-    points: 5,
-    level: 1,
+    name: "Khushi",
+    coins: 5,
   }
 ];
 
@@ -19,7 +18,7 @@ mongoose.connect(uri)
     // Clear existing player if needed
     await Player.deleteMany({});
 
-    // Insert all books
+    // Insert all players
     await Player.insertMany(player);
     console.log("Player inserted successfully");
 

@@ -2,65 +2,47 @@ const express = require('express');
 const router = express.Router();
 const { Player } = require('../models');
 
-// Get player by name
+// GET all players
+router.get('/', async (req, res) => {
+  try {
+    const players = await Player.find();
+    res.json(players);
+  } catch (err) {
+    res.status(500).send("Error while retrieving players: " + err);
+  }
+});
+
+// GET player by name
 router.get('/:name', async (req, res) => {
   try {
     const player = await Player.findOne({ name: req.params.name });
-    if (!player) {
-        return res.status(404).send("Player not found");
-    }
+    if (!player) return res.status(404).send("Player not found");
     res.json(player);
   } catch (err) {
-    res.status(500).send("Error while retrieving the player: " + err);
+    res.status(500).send("Error retrieving player: " + err);
   }
 });
 
-// Update player points
-router.post(':name/points', async (req, res) => {
-  try {
-    const player = await Player.findOne({ name: req.params.name });
-    if (!player) return res.status(404).send("Player not found");
+// POST create new player
+router.post('/', async (req, res) => {
+  const { name, points } = req.body;
 
-    player.points += req.body.points;
-    await player.save();
-    res.send("Points successfully updated", player); // Respond with updated player data
-  } catch (err) {
-    res.status(500).send("Error while updating points: " + err);
+  if (!name) {
+    return res.status(400).send("Name is required");
   }
-});
 
-// Update player progress
-router.post('/:name/progress', async (req, res) => {
   try {
-    const player = await Player.findOne({ name: req.params.name });
-    if (!player) {
-        return res.status(404).send("Player not found");
+    const existing = await Player.findOne({ name });
+    if (existing) {
+      return res.status(409).send("Player already exists");
     }
 
-    // Update level and points
-    player.level = req.body.level;
-    player.points = req.body.points;
+    const newPlayer = new Player({ name, points: points || 0 });
+    await newPlayer.save();
 
-    await player.save();
-    res.send("Progress successfully updated", player); // Respond with updated player data
+    res.status(201).json(newPlayer);
   } catch (err) {
-    res.status(500).send("Error while updating progress: " + err);
-  }
-});
-
-// Get player progress
-router.get('/:name/progress', async (req, res) => {
-  try {
-    const player = await Player.findOne({ name: req.params.name });
-    if (!player) {
-        return res.status(404).send("Player not found");
-    }
-    res.json({ 
-        points: player.points, 
-        level: player.level 
-    });
-  } catch (err) {
-    res.status(500).send("Error while retrieving the player's progress: " + err);
+    res.status(500).send("Error creating player: " + err.message);
   }
 });
 
