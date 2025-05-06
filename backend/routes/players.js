@@ -46,4 +46,17 @@ router.post('/', async (req, res) => {
   }
 });
 
+// DELETE player by name
+router.delete('/:name', async (req, res) => {
+  try {
+    const result = await Player.deleteOne({ name: req.params.name });
+    if (result.deletedCount === 0) {
+      return res.status(404).send("Player not found");
+    }
+    res.send("Player deleted successfully");
+  } catch (err) {
+    res.status(500).send("Error deleting player: " + err.message);
+  }
+});
+
 module.exports = router;

@@ -6,7 +6,7 @@ const uri = process.env.MONGODB_URI;
 
 const player = [
   {
-    name: "Khushi",
+    name: "Librarian",
     coins: 5,
   }
 ];
