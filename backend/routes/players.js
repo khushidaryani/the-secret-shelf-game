@@ -59,4 +59,19 @@ router.delete('/:name', async (req, res) => {
   }
 });
 
+// PATCH (update) player coins
+router.patch('/players/:name/coins', async (req, res) => {
+  const { coinsChange } = req.body;
+  try {
+    const player = await Player.findOne({ name: req.params.name });
+    if (!player) return res.status(404).json({ message: 'Player not found' });
+
+    player.coins = Math.max(0, player.coins + coinsChange);
+    await player.save();
+    res.json({ message: 'Coins updated', coins: player.coins });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
 module.exports = router;
