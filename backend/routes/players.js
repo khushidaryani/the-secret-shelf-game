@@ -60,7 +60,7 @@ router.delete('/:name', async (req, res) => {
 });
 
 // PATCH (update) player coins
-router.patch('/players/:name/coins', async (req, res) => {
+router.patch('/:name/coins', async (req, res) => {
   const { coinsChange } = req.body;
   try {
     const player = await Player.findOne({ name: req.params.name });
