@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f95f346bcb61d42a56cb17d9460a27, type: 3}
+  m_Name: 3_DanDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Hey Dan, long time no see!
+  - characterName: Dan
+    portraitImage: {fileID: 650791918843061476, guid: 22cbc270eaf5d8c4689cee0719e4ecf7, type: 3}
+    dialogueText: 'Yup! So I saw this book online and I want to buy it. '
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Cool, tell me about it!
+  - characterName: Dan
+    portraitImage: {fileID: 650791918843061476, guid: 22cbc270eaf5d8c4689cee0719e4ecf7, type: 3}
+    dialogueText: '[HINT HERE]'

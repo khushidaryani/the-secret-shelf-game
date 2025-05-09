@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dan_16x16_0: 650791918843061476
+      Dan_16x16_1: -5549590680037487887
+      Dan_16x16_10: -1990372522532662164
+      Dan_16x16_11: 1060812015050388700
+      Dan_16x16_12: 8666138226266096143
+      Dan_16x16_13: 5553904033582456261
+      Dan_16x16_14: 214922399955192979
+      Dan_16x16_15: -1940961486145241237
+      Dan_16x16_16: -4653946399867567535
+      Dan_16x16_17: 8857549162549294423
+      Dan_16x16_18: 8774774193876593301
+      Dan_16x16_19: 5958888073203736839
+      Dan_16x16_2: -237258983182049181
+      Dan_16x16_20: 9069923160002750222
+      Dan_16x16_21: -3795782770807904503
+      Dan_16x16_22: -7226527019899580181
+      Dan_16x16_23: 307144997631088346
+      Dan_16x16_24: -129346602054786312
+      Dan_16x16_25: 2975636289584285513
+      Dan_16x16_26: 6640482837989155398
+      Dan_16x16_27: 8976667096390457602
+      Dan_16x16_28: 2360255475006479481
+      Dan_16x16_29: -5410250793370431334
+      Dan_16x16_3: 5828399585448801938
+      Dan_16x16_4: -3724137695006231205
+      Dan_16x16_5: -7809083816510558913
+      Dan_16x16_6: 741720179682585849
+      Dan_16x16_7: -244474826816866251
+      Dan_16x16_8: 3313046363686024894
+      Dan_16x16_9: -8106831159763501940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f95f346bcb61d42a56cb17d9460a27, type: 3}
+  m_Name: 2_LucyDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Good morning! How can I help you?
+  - characterName: Lucy
+    portraitImage: {fileID: -7415890081609598861, guid: 407e523481498f949b3ec5972dcdd9fc, type: 3}
+    dialogueText: Well, I'm lost... I'm looking for a particular book...
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: What is the book about?
+  - characterName: Lucy
+    portraitImage: {fileID: -7415890081609598861, guid: 407e523481498f949b3ec5972dcdd9fc, type: 3}
+    dialogueText: '[HINT HERE]'

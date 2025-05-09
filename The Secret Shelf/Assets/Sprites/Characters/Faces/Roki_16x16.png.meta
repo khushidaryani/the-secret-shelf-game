@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roki_16x16_0: 7112348390638598602
+      Roki_16x16_1: -2742055560617528496
+      Roki_16x16_10: 2233778293876469173
+      Roki_16x16_11: -4148917048449376971
+      Roki_16x16_12: 278863635535064369
+      Roki_16x16_13: 2591469802564531341
+      Roki_16x16_14: 2872104508656580018
+      Roki_16x16_15: 8972241624093196149
+      Roki_16x16_16: -1474895480766199220
+      Roki_16x16_17: -1582662382029236986
+      Roki_16x16_18: 8160303228468446776
+      Roki_16x16_19: -8848672446024680827
+      Roki_16x16_2: 1414833441878992754
+      Roki_16x16_20: -1889675760725502076
+      Roki_16x16_21: 1906317911401593102
+      Roki_16x16_22: 7511978399776406440
+      Roki_16x16_23: -3479796192863478232
+      Roki_16x16_24: -1612913106914541206
+      Roki_16x16_25: -4096729290659233337
+      Roki_16x16_26: 9191546154054952227
+      Roki_16x16_27: -8162093868485417901
+      Roki_16x16_28: -1207210471618352275
+      Roki_16x16_29: 3169947003147996848
+      Roki_16x16_3: -3077301741724922658
+      Roki_16x16_4: 1496272957283443593
+      Roki_16x16_5: -4883586655950284581
+      Roki_16x16_6: -4401073709017720357
+      Roki_16x16_7: 3703795877497324149
+      Roki_16x16_8: -6751402081693100014
+      Roki_16x16_9: 8255242846108810692
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

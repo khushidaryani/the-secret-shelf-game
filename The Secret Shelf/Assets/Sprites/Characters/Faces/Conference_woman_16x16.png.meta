@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Conference_woman_16x16_0: 5092268376744647299
+      Conference_woman_16x16_1: -8735681329762012377
+      Conference_woman_16x16_10: -3559981576349679410
+      Conference_woman_16x16_11: -3336256224399414093
+      Conference_woman_16x16_12: -9003609849240549015
+      Conference_woman_16x16_13: -5605725124118238570
+      Conference_woman_16x16_14: -6282257190708523555
+      Conference_woman_16x16_15: 3904629341996416054
+      Conference_woman_16x16_16: 3328277683737357110
+      Conference_woman_16x16_17: 7759936443614687740
+      Conference_woman_16x16_18: 5149191008474566742
+      Conference_woman_16x16_19: -5954258064444008673
+      Conference_woman_16x16_2: -8370153048698290490
+      Conference_woman_16x16_20: -4997445412058291473
+      Conference_woman_16x16_21: -7941904271920690203
+      Conference_woman_16x16_22: 5824069534209892154
+      Conference_woman_16x16_23: 1902278741005476384
+      Conference_woman_16x16_24: -4316769135724195276
+      Conference_woman_16x16_25: 979791615453167186
+      Conference_woman_16x16_26: -8411804609446028788
+      Conference_woman_16x16_27: 5067455843971158754
+      Conference_woman_16x16_28: 3143650562173251350
+      Conference_woman_16x16_29: -4856763899195306584
+      Conference_woman_16x16_3: -4558345684361327605
+      Conference_woman_16x16_4: 7610989090238077221
+      Conference_woman_16x16_5: -8006224544118938936
+      Conference_woman_16x16_6: 7229268284367362791
+      Conference_woman_16x16_7: 9044397067293239038
+      Conference_woman_16x16_8: 6295256829076919280
+      Conference_woman_16x16_9: 1288781262739246276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

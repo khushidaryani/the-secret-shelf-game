@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f95f346bcb61d42a56cb17d9460a27, type: 3}
+  m_Name: 1_AlexDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Good morning! What brings you here?
+  - characterName: Alex
+    portraitImage: {fileID: 104178132242338865, guid: 35b0a79b47f1bd34ea7cad5feb8b3bf0, type: 3}
+    dialogueText: I'm looking for a book but I don't remember its name. Can you please
+      help me?
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: I see.. Can you tell me something about the book?
+  - characterName: Alex
+    portraitImage: {fileID: 104178132242338865, guid: 35b0a79b47f1bd34ea7cad5feb8b3bf0, type: 3}
+    dialogueText: '[HINT HERE]'

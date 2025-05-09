@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Molly_16x16_0: -2934912012703049782
+      Molly_16x16_1: 395786685143608493
+      Molly_16x16_10: 6638000047384361755
+      Molly_16x16_11: -4993458131889269687
+      Molly_16x16_12: 9022625854768174470
+      Molly_16x16_13: 1506437519895389085
+      Molly_16x16_14: -2745759793563497063
+      Molly_16x16_15: -7000959930268838726
+      Molly_16x16_16: 1548511608303318618
+      Molly_16x16_17: -6177768012200758536
+      Molly_16x16_18: -1437154040795802215
+      Molly_16x16_19: -5739453187796535727
+      Molly_16x16_2: 2661325049533851127
+      Molly_16x16_20: -5519139049131294438
+      Molly_16x16_21: -7174364087712432139
+      Molly_16x16_22: -83541748243566732
+      Molly_16x16_23: -1432086951864210248
+      Molly_16x16_24: 999654204560577819
+      Molly_16x16_25: -6134309012957745700
+      Molly_16x16_26: -3469954595502051948
+      Molly_16x16_27: -883305177114533954
+      Molly_16x16_28: 8376214141770120197
+      Molly_16x16_29: -5509107916484909401
+      Molly_16x16_3: 7160237763472784706
+      Molly_16x16_4: -1406865955077687868
+      Molly_16x16_5: 7550844777685127947
+      Molly_16x16_6: -4621707465265232871
+      Molly_16x16_7: 4043771366727805907
+      Molly_16x16_8: 1061698864686641312
+      Molly_16x16_9: -7658323579456055152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

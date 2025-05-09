@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f95f346bcb61d42a56cb17d9460a27, type: 3}
+  m_Name: 5_PierDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Good afternoon!
+  - characterName: Pier
+    portraitImage: {fileID: 3466160911495782848, guid: c6d63de7c718268439bf9d1bde3a8746, type: 3}
+    dialogueText: Hello! My friend wants a specific book but I can't put a finger
+      on the title.
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: I see.. Do you know anything about the book?
+  - characterName: Pier
+    portraitImage: {fileID: 3466160911495782848, guid: c6d63de7c718268439bf9d1bde3a8746, type: 3}
+    dialogueText: '[HINT HERE]'

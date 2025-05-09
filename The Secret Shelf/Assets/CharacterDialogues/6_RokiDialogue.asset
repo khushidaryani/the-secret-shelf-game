@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f95f346bcb61d42a56cb17d9460a27, type: 3}
+  m_Name: 6_RokiDialogue
+  m_EditorClassIdentifier: 
+  lines:
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Hello my friend!
+  - characterName: Roki
+    portraitImage: {fileID: 7112348390638598602, guid: eadcace7648a9524fa75eee298d32b4b, type: 3}
+    dialogueText: Hi! So one of my favourite author just released a new book and
+      I wanted to see if you have it.
+  - characterName: You
+    portraitImage: {fileID: 5092268376744647299, guid: 0cbd2e97500352942b7f20d42d895257, type: 3}
+    dialogueText: Oooo, that's interesting! Tell me about it.
+  - characterName: Roki
+    portraitImage: {fileID: 7112348390638598602, guid: eadcace7648a9524fa75eee298d32b4b, type: 3}
+    dialogueText: '[HINT HERE]'

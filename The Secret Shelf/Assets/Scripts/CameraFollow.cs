@@ -1,26 +1,30 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
+// Controls camera behavior to follow clients or the librarian
 public class CameraFollow : MonoBehaviour
 {
-    public List<Transform> clients;       // Lista de clientes (en orden de aparición)
-    public Transform librarian;           // Bibliotecaria (jugador principal)
+    [Header("Targets")]
+    public List<Transform> clients;
+    public Transform librarian;
+    public Transform clientTargetPoint;
+
+    [Header("Camera Settings")]
     public float smoothing = 5f;
     public float cameraZoomOut = 5f;
-    public Transform clientTargetPoint;   // Punto donde se detiene el cliente
+
+    [Header("Map Boundaries")]
+    private float minX = -15f, maxX = 14f, minY = -13f, maxY = 8f;
+    public float leftMargin = 0.5f;
+    public float rightMargin = 0.5f;
+    public float bottomMargin = 0.5f;
+    public float topMargin = 0.5f;
 
     private Camera mainCamera;
     private Transform target;
     private int currentClientIndex = 0;
     private bool hasClientArrived = false;
     private bool hasLibrarianMoved = false;
-
-    // Límites del mapa
-    private float minX = -15f, maxX = 14f, minY = -13f, maxY = 8f;
-    public float leftMargin = 0.5f;
-    public float rightMargin = 0.5f;
-    public float bottomMargin = 0.5f;
-    public float topMargin = 0.5f;
 
     void Start()
     {
@@ -40,6 +44,7 @@ public class CameraFollow : MonoBehaviour
         FollowTarget();
     }
 
+    // Determines when to switch from following the client to the librarian
     void HandleCameraFlow()
     {
         if (!hasClientArrived && target != null && clientTargetPoint != null)
@@ -48,22 +53,24 @@ public class CameraFollow : MonoBehaviour
             if (dist < 0.2f)
             {
                 hasClientArrived = true;
-                target = null; // Se detiene la cámara
+                target = null; // The camera stops
                 Debug.Log("Client reached counter");
             }
         }
 
         if (hasClientArrived && !hasLibrarianMoved)
         {
+            // Detect if the librarian has started moving
             if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) > 0 || Mathf.Abs(Input.GetAxisRaw("Vertical")) > 0)
             {
                 hasLibrarianMoved = true;
-                target = librarian;
+                target = librarian; // Start following the librarian
                 Debug.Log("Librarian started moving");
             }
         }
     }
 
+    // Makes the camera follow the current target smoothly, within map limits
     void FollowTarget()
     {
         if (target != null)
@@ -81,7 +88,14 @@ public class CameraFollow : MonoBehaviour
         }
     }
 
-    // Llama a esto cuando el cliente haya sido atendido y se vaya
+    // Set a new camera target manually
+    public void SetTarget(Transform newTarget)
+    {
+        target = newTarget;
+    }
+
+    // Call this after the current client has finished their interaction and left.
+    // Moves the camera to follow the next client.
     public void AdvanceToNextClient()
     {
         currentClientIndex++;
@@ -95,7 +109,7 @@ public class CameraFollow : MonoBehaviour
         }
         else
         {
-            Debug.Log("All clients finished");
+            //Debug.Log("All clients finished");
         }
     }
 }

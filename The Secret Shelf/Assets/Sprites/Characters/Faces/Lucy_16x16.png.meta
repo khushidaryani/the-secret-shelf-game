@@ -124,7 +124,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -138,7 +138,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -162,7 +162,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lucy_16x16_0: -7415890081609598861
+      Lucy_16x16_1: -6546267411115941071
+      Lucy_16x16_10: 3384684188793681858
+      Lucy_16x16_11: -6038819071068578011
+      Lucy_16x16_12: -9049446789924738912
+      Lucy_16x16_13: 3013157430109225879
+      Lucy_16x16_14: -701469604292642839
+      Lucy_16x16_15: -4760823718681314439
+      Lucy_16x16_16: 7438112188983321331
+      Lucy_16x16_17: 3077230113062627650
+      Lucy_16x16_18: 9083389367571452902
+      Lucy_16x16_19: -1000651798802061636
+      Lucy_16x16_2: 1172587028807395901
+      Lucy_16x16_20: 5121218115780013110
+      Lucy_16x16_21: 637424237258534832
+      Lucy_16x16_22: -5289502722125439507
+      Lucy_16x16_23: 612717403512393530
+      Lucy_16x16_24: -2315314074039181167
+      Lucy_16x16_25: 4046797204619639262
+      Lucy_16x16_26: 1674655123256055090
+      Lucy_16x16_27: 7953311800714052333
+      Lucy_16x16_28: -4884189018005067082
+      Lucy_16x16_29: 4407699126606674272
+      Lucy_16x16_3: 2100650949536931731
+      Lucy_16x16_4: 5377181200410464163
+      Lucy_16x16_5: 4921139339461779167
+      Lucy_16x16_6: 4105983604566284277
+      Lucy_16x16_7: 4366624758129939701
+      Lucy_16x16_8: -7033076138998468002
+      Lucy_16x16_9: 8571331147203906018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
