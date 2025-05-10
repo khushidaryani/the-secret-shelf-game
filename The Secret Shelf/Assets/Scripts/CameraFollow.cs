@@ -22,7 +22,6 @@ public class CameraFollow : MonoBehaviour
 
     private Camera mainCamera;
     private Transform target;
-    private int currentClientIndex = 0;
     private bool hasClientArrived = false;
     private bool hasLibrarianMoved = false;
 
@@ -92,24 +91,5 @@ public class CameraFollow : MonoBehaviour
     public void SetTarget(Transform newTarget)
     {
         target = newTarget;
-    }
-
-    // Call this after the current client has finished their interaction and left.
-    // Moves the camera to follow the next client.
-    public void AdvanceToNextClient()
-    {
-        currentClientIndex++;
-        hasClientArrived = false;
-        hasLibrarianMoved = false;
-
-        if (currentClientIndex < clients.Count)
-        {
-            target = clients[currentClientIndex];
-            Debug.Log("Next client entering");
-        }
-        else
-        {
-            //Debug.Log("All clients finished");
-        }
     }
 }

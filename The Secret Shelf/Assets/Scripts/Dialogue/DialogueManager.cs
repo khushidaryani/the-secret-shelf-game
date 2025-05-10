@@ -103,7 +103,7 @@ public class DialogueManager : MonoBehaviour
         ShowCurrentLine();
     }
 
-    // End the current dialogue +
+    // End the current dialogue
     private void EndDialogue()
     {
         isDialogueActive = false;

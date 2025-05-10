@@ -5,6 +5,7 @@ using UnityEngine.Networking;
 using System.Collections;
 using UnityEngine.SceneManagement;
 using System.Linq;
+using UnityEditor;
 
 public class BookButton : MonoBehaviour
 {
@@ -20,72 +21,88 @@ public class BookButton : MonoBehaviour
     public GameObject finishPanel;
     public TextMeshProUGUI finishText;
 
-    void OnEnable()
-    {
-        // Reset state for each client
-        attempts = 0;
-        alreadyGuessedCorrectly = false;
-
-        // Load current coins from the server to update UI
-        FindAnyObjectByType<PlayerCoins>()?.LoadCoinsFromServer();
-    }
-
     public void SetBook(Book bookData)
     {
         book = bookData;
+
+        // Reset guess state
+        attempts = 0;
+        alreadyGuessedCorrectly = false;
+
+        Debug.Log($"[BookButton] SetBook: {book.title} reset state");
 
         if (bookDetailsText != null)
         {
             bookDetailsText.text = $"Title: {book.title}\nAuthor: {book.author}\nGenre: {book.genre}";
         }
 
-        var button = GetComponent<Button>();
-        button.onClick.RemoveAllListeners();
-        button.onClick.AddListener(OnClick);
+        var btn = GetComponent<Button>();
+        btn.onClick.RemoveAllListeners();
+        btn.onClick.AddListener(OnClick);
+
+        Debug.Log($"[BookButton] Resetting state on SetBook. New book: {bookData.title}");
+
+        // Load current coins from the server to update UI
+        FindAnyObjectByType<PlayerCoins>()?.LoadCoinsFromServer();
     }
 
     public void OnClick()
     {
-        attempts = 0;
-        alreadyGuessedCorrectly = false;
+        if (alreadyGuessedCorrectly || attempts >= 3)
+            return;
 
-        // Debug the attempt count
+        GetComponent<Button>().interactable = false;
+
         attempts++;
         Debug.Log($"[BookButton] Attempt #{attempts}");
 
+        var btn = GetComponent<Button>();
+        btn.interactable = false;  // bloquea para evitar doble-disparo
+
         string currentHint = DialogueManager.lastLine?.dialogueText;
+
         if (string.IsNullOrEmpty(currentHint))
         {
             Debug.LogWarning("No hint available for comparison");
+            GetComponent<Button>().interactable = true;
             return;
         }
 
-        bool isCorrect = false;
-        foreach (string hint in book.hints)
-        {
-            if (hint == currentHint)
-            {
-                isCorrect = true;
-                break;
-            }
-        }
+        bool isCorrect = book.hints.Contains(currentHint);
 
         if (isCorrect)
         {
             alreadyGuessedCorrectly = true;
 
-            // Assign points based on the attempt number
-            int coinsToAdd = attempts == 1 ? 10 : attempts == 2 ? 5 : 2;
+            // Asignar puntos según el número de intentos
+            int coinsToAdd = 0;
+            if (attempts == 1)
+            {
+                coinsToAdd = 10;  // Primer intento
+            }
+            else if (attempts == 2)
+            {
+                coinsToAdd = 5;   // Segundo intento
+            }
+            else if (attempts == 3)
+            {
+                coinsToAdd = 2;   // Tercer intento
+            }
+
+            // Enviar resultado y deshabilitar botones
             ShowAndSendResult(true, coinsToAdd);
         }
-        else if (attempts >= 3)
+        else if (attempts == 3)
         {
+            // Si falló después de 3 intentos, restar monedas
             ShowAndSendResult(false, -5);
         }
         else
         {
+            // Si aún tiene intentos restantes
             int remaining = totalAttempts - attempts;
             ShowMessage($"Wrong book! You have {remaining} more attempt{(remaining == 1 ? "" : "s")}!");
+            GetComponent<Button>().interactable = true;
         }
     }
 
@@ -100,8 +117,13 @@ public class BookButton : MonoBehaviour
             ShowMessage("Wrong book! You lose 5 coins.");
         }
 
+        // Actualizar las monedas en el servidor
         UpdateCoinsOnServer(coinChange);
+
+        // Desactivar todos los botones de libros
         DisableAllBookButtons();
+
+        // Cargar la siguiente escena después de un breve retraso
         StartCoroutine(LoadNextClientScene(2f));
     }
 
@@ -110,9 +132,9 @@ public class BookButton : MonoBehaviour
         BookButton[] allButtons = FindObjectsByType<BookButton>(FindObjectsSortMode.None);
         foreach (BookButton bookButton in allButtons)
         {
-            var btn = bookButton.GetComponent<Button>();
-            if (btn != null)
-                btn.interactable = false;
+            var button = bookButton.GetComponent<Button>();
+            if (button != null)
+                button.interactable = false;
         }
     }
 
@@ -129,7 +151,7 @@ public class BookButton : MonoBehaviour
             if (SceneExists(nextSceneName))
                 SceneManager.LoadScene(nextSceneName);
             else
-                ShowFinalMessage("Felicidades, has terminado el juego. ¡Gracias por jugar!");
+                ShowFinalMessage("Congrats, you have finished the game. Thanks for playing!");
         }
         else
         {

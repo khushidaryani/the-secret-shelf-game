@@ -25,7 +25,7 @@ public class PlayerCoins : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Asegúrate de que se llama solo si este objeto sigue existiendo en la nueva escena
+     
         LoadCoinsFromServer();
     }
 

@@ -904,7 +904,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1755166762}
         m_TargetAssemblyTypeName: ButtonActions, Assembly-CSharp
-        m_MethodName: ReturnToMainMenu
+        m_MethodName: MainMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2028,6 +2028,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8ebddb2cc74b492438ed6c7f9aa58ed3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pausePanel: {fileID: 0}
 --- !u!4 &1755166763
 Transform:
   m_ObjectHideFlags: 0

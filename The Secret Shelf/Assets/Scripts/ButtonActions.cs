@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
 using UnityEngine.UIElements;
+using UnityEditor;
 
 public class ButtonActions : MonoBehaviour
 {
@@ -16,31 +18,35 @@ public class ButtonActions : MonoBehaviour
         SceneManager.LoadScene("HowToPlay");
     }
 
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
+
     public void ExitGame()
     {
-        if (!string.IsNullOrEmpty(PlayerCleanup.Instance.playerName))
-        {
-            // Llamar al método para eliminar al jugador de la base de datos
-            StartCoroutine(PlayerCleanup.Instance.DeletePlayerFromDatabase(PlayerCleanup.Instance.playerName));
-            Debug.Log("Jugador eliminado de la base de datos");
-        }
+        StartCoroutine(DeleteAndQuit());
 
-        // Cierra la aplicación en un build real 
-        Application.Quit();
-
-        // Detiene la ejecución del juego en el editor
-        UnityEditor.EditorApplication.isPlaying = false;
     }
     public void ReturnToMainMenu()
     {
+        StartCoroutine(DeleteAndQuit());
+        SceneManager.LoadScene("MainMenu");
+    }
+
+    IEnumerator DeleteAndQuit()
+    {
         if (!string.IsNullOrEmpty(PlayerCleanup.Instance.playerName))
         {
-            // Llamar al método para eliminar al jugador de la base de datos
-            StartCoroutine(PlayerCleanup.Instance.DeletePlayerFromDatabase(PlayerCleanup.Instance.playerName));
-            Debug.Log("Jugador eliminado de la base de datos");
+            yield return StartCoroutine(PlayerCleanup.Instance.DeletePlayerFromDatabase(PlayerCleanup.Instance.playerName));
         }
 
-        SceneManager.LoadScene("MainMenu");
+        Debug.Log("Saliendo del juego...");
+        Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
     }
 
     public void PauseGame()

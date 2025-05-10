@@ -5,7 +5,7 @@ using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-// Handles user sign-up: checks if a player exists and creates one if not.
+// Handles user sign-up: checks if a player exists and creates one if not
 public class SignUpManager : MonoBehaviour
 {
     public TMP_InputField nameInputField;
@@ -96,7 +96,7 @@ public class SignUpManager : MonoBehaviour
         }
     }
 
-    // Displays an error message on the screen.
+    // Displays an error message on the screen
     void ShowError(string message)
     {
         errorMessage.text = message;

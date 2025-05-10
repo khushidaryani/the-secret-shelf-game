@@ -1,5 +1,5 @@
-using UnityEngine;
 using UnityEngine.Networking;
+using UnityEngine;
 using System.Collections;
 
 public class PlayerCleanup : MonoBehaviour
@@ -24,7 +24,7 @@ public class PlayerCleanup : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    /* Called when the application quits (on build)
+    // Called when the application quits (on build)
     private void OnApplicationQuit()
     {
         if (!string.IsNullOrEmpty(playerName))
@@ -33,22 +33,11 @@ public class PlayerCleanup : MonoBehaviour
         }
     }
 
-#if UNITY_EDITOR
-    // Handles cleanup when exiting Play Mode in the Unity Editor
-    [UnityEditor.Callbacks.DidReloadScripts]
-    private static void OnEditorQuit()
-    {
-        if (Instance != null && !string.IsNullOrEmpty(Instance.playerName))
-        {
-            Instance.StartCoroutine(Instance.DeletePlayerFromDatabase(Instance.playerName));
-        }
-    }
-#endif*/
-
     // Coroutine to send DELETE request to backend and remove player
     public IEnumerator DeletePlayerFromDatabase(string name)
     {
         string url = Endpoints.PlayerByName(name);
+        Debug.Log("Deleting player at URL: " + url);
         UnityWebRequest deleteRequest = UnityWebRequest.Delete(url);
         yield return deleteRequest.SendWebRequest();
 

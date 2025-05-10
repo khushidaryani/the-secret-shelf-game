@@ -13,8 +13,3 @@ public class BookListWrapper
 {
     public Book[] books;
 }
-
-public static class BookData
-{
-    public static Book correctBook;
-}
