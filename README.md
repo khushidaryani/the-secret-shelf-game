@@ -5,7 +5,7 @@ You play as a librarian helping customers find the perfect book by interpreting 
 ## 🎮 How To Play
 
 1. Start a new game and enter your name.
-2. A customer will walk into the library and give you a clue about the book they want.
+2. A customer will walk into the library and give you a clue about the book they want (click **SPACE** to continue the dialogue).
 3. Approach the bookshelves (using **WASD or arrow keys**) to open a list of available books.
 4. Choose a book based on the clue. You only have **3 attempts** per client.
 5. Your score will update depending on your performance:
@@ -33,11 +33,11 @@ To play or compile **The Secret Shelf**, here are the recommended **minimum** re
 
 ### 🖥️ Hardware  
 
-- **Processor:** Intel Core i5 or AMD Ryzen 5 (Windows/Linux), or Apple M1 (macOS)  
+- **Processor:** Intel Core i5 or AMD Ryzen 5
 - **RAM**: 8GB minimum (16GB recommended)  
 - **Storage:** At least 1.5GB of free disk space  
 - **Display**: 1280x720 resolution or higher  
-- **Operating System**: 64-bit (Windows 10/11, macOS Monterey, Linux)
+- **Operating System**: 64-bit (Windows 10/11)
 
 ### 💿 Software 
 
@@ -61,14 +61,15 @@ This game connects to a Node.js API hosted on [Render](https://render.com), whic
 
 ### 📌 Available Endpoints
 
-| Method | Endpoint           | Description                        |
-|--------|--------------------|------------------------------------|
-| GET    | `/books`           | Returns all books                  |
-| GET    | `/books/:isbn`     | Returns a book by ISBN             |
-| GET    | `/players`         | Returns all players                |
-| GET    | `/players/:name`   | Returns a player by name           |
-| POST   | `/players`         | Creates a new player               |
-| DELETE | `/players/:name`   | Deletes a player on game exit      |
+| Method | Endpoint                 | Description                        |
+|--------|--------------------------|------------------------------------|
+| GET    | `/books`                 | Returns all books                  |
+| GET    | `/books/:isbn`           | Returns a book by ISBN             |
+| GET    | `/players`               | Returns all players                |
+| GET    | `/players/:name`         | Returns a player by name           |
+| POST   | `/players`               | Creates a new player               |
+| DELETE | `/players/:name`         | Deletes a player on game exit      |
+| PATCH  | `/players/:name/coins`   | Updates a player's coins           |
 
 ---
 
@@ -89,7 +90,7 @@ This game connects to a Node.js API hosted on [Render](https://render.com), whic
    
 4. (Optional) To export the game:
    - Go to `File > Build Settings`
-   - Select `PC, Mac & Linux Standalone`, choose target platform and build
+   - Select `Windows` and build
   
 ---
   
@@ -102,7 +103,10 @@ This game connects to a Node.js API hosted on [Render](https://render.com), whic
   - [Modern User Interface - RPG asset pack](https://limezu.itch.io/modernuserinterface) by LimeZu  
 
  - **Fonts**:
-   - [Tiny 5](https://fonts.google.com/specimen/Tiny5) by Stefan Schmidt  
+   - [Tiny 5](https://fonts.google.com/specimen/Tiny5) by Stefan Schmidt
+
+ - **Tutorials**:
+   - [List of tutorials followed](https://github.com/khushidaryani/the-secret-shelf-game/wiki/followed-tutorials)
 
 ---
 
